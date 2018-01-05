@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tom Hall
+name: Overwatch Toronto
 
 # Short bio or description (displayed in the header)
-description: UX person. Data enthusiast. Developer.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/tommyhall/tommyhall.github.io/master/images/headshot2.jpg
+avatar:
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: tommyhall
+  github:
   instagram:
-  linkedin: tom-hall-55087288
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
