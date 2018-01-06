@@ -23,9 +23,9 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $roboto;
+  font: 18px/1.4 $openSans;
   color: $darkGray;
-  line-height: 150%;
+  line-height: 160%;
 }
 
 .page-container {
@@ -42,7 +42,7 @@ body {
 // }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $droid;
+  font-family: $fjalla;
   color: $darkerGray;
   font-weight: bold;
 
@@ -57,6 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  text-transform: uppercase;
   a {
     color: inherit;
   }
@@ -83,11 +84,11 @@ p {
 }
 
 a {
-  color: $atlanticBlue;
-  text-decoration: none;
+  color: $orange;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
-    color: $atlanticBlueDarker;
+    color: $orangeDarker;
     text-decoration: underline;
   }
 }
@@ -132,12 +133,13 @@ img {
 
 .headline {
   text-align:center;
+  text-transform:capitalize;
   font-size:48px;
 }
 
 .contact-email {
   text-align: center;
-  color: $atlanticBlueDarker;
+  color: $orangeDarker;
   font-size: 24px;
 }
 
@@ -239,7 +241,7 @@ img {
   float: left;
 	
   margin-top: 16px; // @TODO: Vertically middle align
-  font-family: $droid;
+  font-family: $openSans;
   font-size: 21px;
   margin-bottom: 12px;
 
@@ -254,33 +256,22 @@ img {
   margin: 0;
   color: $darkerGray;
   cursor: pointer;
-  font-family: $droid;
+  font-family: $openSans;
   font-weight: 300;
   font-size: 21px;
   letter-spacing: 1px;
   line-height: 150%;
 	
   a:hover {
-    color: $atlanticBlue;
+    color: $orange;
     text-decoration: none;
   }
 }
 
-// .site-description {
-//   margin: -5px 0 0 0;
-//   color: $atlanticBlue;
-//   font-size: 19px;
-//   font-family: $droid;
-
-//   @include mobile {
-//     margin: 3px 0;
-//   }
-// }
-
 nav {
   float: right;
   margin-top: 16px; // @TODO: Vertically middle align
-  font-family: $droid;
+  font-family: $openSans;
   font-size: 21px;
 
   @include mobile {
@@ -298,37 +289,24 @@ nav {
     letter-spacing: 1px;
 
     &:hover {
-      color:$atlanticBlue;
+      color:$orange;
       text-decoration:none;
     }
 	  
     @include mobile {
       margin: 0 10px;
-      color: $atlanticBlue;
+      color: $orange;
     }
   }
 }
 
-.landing-page-section {
+.home-page-section {
   border-top: 1px solid #eee;
   margin-top: 4em;
   padding-top: 1.5em;
   h1 {
     color: $gray;
     font-size: 36px;
-  }
-}
-
-.portfolio-item {
-  margin-top: 80px;
-  img {
-    margin-top: 4.3em;
-  }
-  h1 {
-    font-size:32px;
-  }
-  .services {
-    font-weight:600;
   }
 }
 
@@ -366,56 +344,6 @@ nav {
   }
 }
 
-.case-study {
-  .testimonial {
-    font-size: 21px;
-    color: #a3a3a3;
-    text-align: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
-  }
-  h1 {
-    text-align: center;
-    font-size: 40px;
-  }
-  h2 {
-    color: $atlanticBlue;
-  }
-  td {
-    font-size: 15px;
-  }
-  .table {
-    margin-top:30px;
-  }
-  figure {
-    margin-top:30px;
-    margin-bottom:30px;
-  }
-  figcaption {
-    text-align: center;
-  }
-  li {
-    margin-top: .5em;
-  }
-  li:first-child {
-    margin-top:0;
-  }
-}
-
-.resume-title {
-  color: $atlanticBlueDarker;
-  font-size:22px;
-  font-weight:300;
-}
-.resume-date {
-  font-size:22px;
-  font-weight:300;
-}
-.resume-content {
-  padding-left: 2.5%;
-  margin-bottom: 2.5em;
-}
-
 .form-group {
   margin-bottom: 1em;
 }
@@ -441,7 +369,7 @@ nav {
 }
 
 input[type="submit"] {
-  background: $atlanticBlue;
+  background: $orange;
   border-width: 0;
   color: #fff;
   cursor: pointer;
@@ -456,7 +384,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background: $atlanticBlueDarker;
+  background: $orangeDarker;
 }
 
 .clear-footer {
