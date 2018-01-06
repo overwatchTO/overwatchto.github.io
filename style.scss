@@ -273,6 +273,7 @@ nav {
   margin-top: 16px; // @TODO: Vertically middle align
   font-family: $openSans;
   font-size: 21px;
+  text-decoration:none;
 
   @include mobile {
     float: none;
