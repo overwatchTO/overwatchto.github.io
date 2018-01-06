@@ -274,7 +274,6 @@ nav {
   margin-top: 16px; // @TODO: Vertically middle align
   font-family: $openSans;
   font-size: 21px;
-  text-decoration:none;
 
   @include mobile {
     float: none;
@@ -289,6 +288,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    text-decoration:none;
 
     &:hover {
       color:$orange;
