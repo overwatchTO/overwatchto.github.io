@@ -85,7 +85,7 @@ p {
 }
 
 a {
-  color: $orange;
+  color: $orangeDarker;
   text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
@@ -291,13 +291,13 @@ nav {
     text-decoration:none;
 
     &:hover {
-      color:$orange;
+      color:$orangeDarker;
       text-decoration:none;
     }
 	  
     @include mobile {
       margin: 0 10px;
-      color: $orange;
+      color: $orangeDarker;
     }
   }
 }
