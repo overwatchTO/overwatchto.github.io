@@ -135,7 +135,16 @@ img {
 .headline {
   text-align:center;
   text-transform:capitalize;
-  font-size:48px;
+  font-size:60px;
+  font-style:normal;
+}
+
+.subheader {
+  text-align:center;
+  text-transform:capitalize;
+  font-size:24px;
+  font-style:normal;
+  font-family:$openSans;
 }
 
 .contact-email {
@@ -273,7 +282,7 @@ nav {
   float: right;
   margin-top: 16px; // @TODO: Vertically middle align
   font-family: $openSans;
-  font-size: 21px;
+  //font-size: 21px;
 
   @include mobile {
     float: none;
