@@ -329,13 +329,10 @@ nav {
   }
 }
 
-.btn {
-  .btn-primary {
-    .primary-cta {
-      padding: 1em 2em;
-      color: $blueDarker;
-    }
-  }
+.btn .btn-primary .primary-cta {
+  padding: 1em 2em;
+  color: $blueDarker;
+  font-weight:600;
 }
 
 .home-page-section {
