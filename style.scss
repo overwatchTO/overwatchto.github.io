@@ -329,9 +329,12 @@ nav {
   }
 }
 
+
 .primary-cta {
   padding: 1em 2em;
-  color: $blueDarker !important;
+  color: $white !important;
+  background-color: $blueDarker !important;
+  cursor: pointer;
   font-weight:600;
 }
 
