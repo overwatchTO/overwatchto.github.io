@@ -342,11 +342,12 @@ nav {
 }
 
 .jumbotron {
-  height: 550px;
+  height: 600px;
+  margin-top:5em;
   background:
     linear-gradient(
-      rgba(255,255,255,0.85),
-      rgba(255,155,255,0.85)
+      rgba(255,255,255,0.95),
+      rgba(0,0,155,0.95)
     ),
     url(/images/OWAnniversary-IllustratedWallpaper_1920x1080.jpg);
   background-position-x: center;
