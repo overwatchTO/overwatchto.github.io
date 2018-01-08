@@ -329,9 +329,9 @@ nav {
   }
 }
 
-.btn .btn-primary .primary-cta {
+.primary-cta {
   padding: 1em 2em;
-  color: $blueDarker;
+  color: $blueDarker !important;
   font-weight:600;
 }
 
