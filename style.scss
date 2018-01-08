@@ -301,20 +301,20 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkerGray;
+    color: $white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
     text-decoration:none;
 
     &:hover {
-      color:$orangeDarker;
+      color:$lightGray;
       text-decoration:none;
     }
 	  
     @include mobile {
       margin: 0 10px;
-      color: $orangeDarker;
+      color: $white;
     }
   }
 }
