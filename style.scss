@@ -132,21 +132,43 @@ img {
   max-width: none;
 }
 
-.headline {
-  text-align:center;
-  text-transform:capitalize;
-  font-size:60px;
-  font-style:normal;
+.banner {
+  background-color:$blue;	
+  padding-bottom:4em;
+  
+  h1 {
+    text-align:center;
+    text-transform:capitalize;
+    font-size:60px;
+    font-style:normal;
+    color:$white;
+  }
+  h4 {
+    text-align:center;
+    text-transform:capitalize;
+    font-size:24px;
+    font-style:normal;
+    font-family:$openSans;
+    font-weight:300;  
+    color:$white;
+  }
 }
 
-.subheader {
-  text-align:center;
-  text-transform:capitalize;
-  font-size:24px;
-  font-style:normal;
-  font-family:$openSans;
-  font-weight:300;
-}
+// .headline {
+//   text-align:center;
+//   text-transform:capitalize;
+//   font-size:60px;
+//   font-style:normal;
+// }
+
+// .subheader {
+//   text-align:center;
+//   text-transform:capitalize;
+//   font-size:24px;
+//   font-style:normal;
+//   font-family:$openSans;
+//   font-weight:300;
+// }
 
 .banner-logo {
   //text-align:center;
