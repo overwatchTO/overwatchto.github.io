@@ -336,6 +336,10 @@ nav {
   background-color: $blueDarker !important;
   cursor: pointer;
   font-weight:600;
+	
+  &:hover { 
+    background-color: $blueDarkest !important;
+  }
 }
 
 .home-page-section {
