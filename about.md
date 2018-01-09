@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="container">
   
-  <div class="row justify-content-center">
+  <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Toronto's first recreational Overwatch league</h1>
       <p>The Toronto Overwatch Beer League (TOBL) is an organized league where players can play a full regular season schedule with a consistent team. Hosted at <a href="http://raidersesports.com/">Raiders eSports Centre</a>, the league provides a more social experience than queuing up at home.</p>
@@ -15,7 +15,7 @@ permalink: /about/
     </div>
   </div>
   
-  <div class="row justify-content-center">
+  <div class="row justify-content-center page-section">
     <div class="col-12 col-md-10 col-xl-8">
       <h1>Rules</h1>
       <p>The rules are a modified version of those posted for ESL Overwatch North America.</p>
@@ -94,7 +94,7 @@ permalink: /about/
     </div>
   </div>
   
-  <div class="row justify-content-center">
+  <div class="row justify-content-center page-section">
     <div class="col-12 col-md-10 col-xl-8">
       <h1>Frequently Asked Questions</h1>
       <p>Coming soon!</p>
