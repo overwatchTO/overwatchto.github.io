@@ -1,23 +1,16 @@
+---
+layout: default
+title: Rules
+permalink: /rules/
+---
 
 
 <div class="container">
   
   <div class="row justify-content-center page-section-no-line" style="padding-bottom:3.2em;">
     <div class="col-12 col-md-10 col-xl-8">
-      <h1 class="text-center">Toronto's first recreational Overwatch league</h1>
-      <div>
-        <img src="{{ site.baseurl }}/images/tobl_logo.jpg" class="img-responsive banner-logo" alt="Toronto Overwatch Beer League logo">
-      </div>
-      <p>The Toronto Overwatch Beer League (TOBL) is an organized league where players can play a full regular season schedule with a consistent team. Hosted at <a href="http://raidersesports.com/">Raiders eSports Centre</a>, the league provides a more social experience than queuing up at home.</p>
-      <p>At TOBL players will be able to get familiar with playing in an organized team environment, build strategies based on playing against the same teams, and meet other Overwatch players in person in a fun social environment.</p>
-      <p><strong>Season 1 starts on Thursday nights in February, 2018.</strong></p>
-    </div>
-  </div>
-  
-  <div class="row justify-content-center page-section">
-    <div class="col-12 col-md-10 col-xl-8">
-      <h1>Rules</h1>
-      <p>The rules are a modified version of those posted for ESL Overwatch North America.</p>
+      <h1 class="text-center">Rules</h1>
+      <p>These rules are a modified version of those posted for ESL Overwatch North America.</p>
       <h2>1. Eligibility</h2>
       <p>Players eligible to play in the league must: (i) have an active Battle.net account that is in good standing; (ii) at the start of each season, are over the age of majority in Canada; (iii) possess a personal licensed copy of Overwatch (PC) associated with their account. All applicable laws and regulations apply. An individual entrant may only win one prize during the tournament.</p>
       <h2>2. Teams</h2>
@@ -90,13 +83,6 @@
       </ul>
       <h3>3.2 Schedule</h3>
       <p><em>TBD</em></p>
-    </div>
-  </div>
-  
-  <div class="row justify-content-center page-section">
-    <div class="col-12 col-md-10 col-xl-8">
-      <h1>Frequently Asked Questions</h1>
-      <p>Coming soon!</p>
     </div>
   </div>
   
