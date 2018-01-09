@@ -331,7 +331,6 @@ nav {
   }
 }
 
-
 .primary-cta {
   padding: 1em 2em;
   color: $white !important;
@@ -402,6 +401,14 @@ nav {
       margin: .8em auto;
     }
   }
+}
+
+.img-logo {
+  display:block;
+  margin:0 auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border:1px solid #eee;
 }
 
 .map-responsive{
