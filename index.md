@@ -38,7 +38,7 @@ layout: default
         <div class="text-center" style="margin-top:-5px;">
           <img class="feature-icon" src="{{ site.baseurl }}/images/overwatch_logo.png" alt="Overwatch Logo">
         </div>
-        <p class="text-center">Compete weekly in an organized Overwatch league. See the details <a href="#">here</a>.</p>
+        <p class="text-center">Compete weekly in an organized Overwatch league. See the details <a href="{{ site.baseurl }}/about/">here</a>.</p>
       </div>
     </div>
     <div class="col-10 col-sm-8 col-md-4 mx-auto">
