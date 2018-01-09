@@ -18,7 +18,7 @@ layout: default
 </div>
 
 <div class="container">
-  <div class="row home-page-section">
+  <div class="row page-section">
     <div class="col-12">
       <h1 class="text-center">How it works</h1>
     </div>
@@ -59,7 +59,7 @@ layout: default
 </div>
   
 <div class="container">
-  <div class="row home-page-section-no-line">
+  <div class="row page-section-no-line">
     <div class="col-10 col-sm-10 col-md-8 col-lg-6 mx-auto">
       <h1 class="text-center">Raiders eSports Centre</h1>
       <p>All of our matches take place on LAN at Raiders eSports Centre. Meet other Overwatch players, talk strategy, and enjoy some food and drink while socializing.</p>
