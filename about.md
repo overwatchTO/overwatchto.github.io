@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="container">
   
-  <div class="row justify-content-center page-section-no-line" style="padding-bottom:3.2em;">
+  <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Toronto's first recreational Overwatch league</h1>
       <div>
@@ -18,14 +18,14 @@ permalink: /about/
     </div>
   </div>
   
-  <div class="row justify-content-center page-section">
+  <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1>Rules</h1>
       <p>Our rules are a modified version of those used by ESL Overwatch North America. You can read them in full <a href="{{ site.baseurl }}/rules">here</a>.</p>
     </div>
   </div>
   
-  <div class="row justify-content-center page-section">
+  <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1>Frequently Asked Questions</h1>
       <p>Coming soon!</p>
