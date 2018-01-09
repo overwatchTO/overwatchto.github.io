@@ -53,7 +53,7 @@ layout: default
 </div>
 
 <div class="jumbotron">
-  <div class="jumbo-header mx-auto" style="height:100px; background-color:white;width:450px;border-radius:4px;>
+  <div class="jumbo-header mx-auto" style="height:100px; background-color:white;width:450px;border-radius:4px;">
     <p class="text-center">The first season begins in February, and individual registration opens soon, so sign up to receive updates!</p>
   </div>
 </div>
