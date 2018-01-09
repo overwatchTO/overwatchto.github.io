@@ -6,7 +6,7 @@ permalink: /contact/
 <div class="container">
 <div class="row justify-content-center page-section-no-line">
   <div class="col-12 col-md-10 col-xl-8">
-    <h1 class="headline">Get in touch</h1>
+    <h1 class="headline text-center">Get in touch</h1>
     <p class="contact-email">Send us an email or reach out on social media.</p>
   </div>
 </div>
