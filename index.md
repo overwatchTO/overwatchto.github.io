@@ -80,5 +80,5 @@ layout: default
   </div>
 </div>
 
-  <div style="padding-bottom:4em"></div>
-</div>
+<div style="padding-bottom:4em"></div>
+
