@@ -14,7 +14,7 @@ permalink: /about/
       </div>
       <p>The Toronto Overwatch Beer League (TOBL) is an organized league where players can play a full regular season schedule with a consistent team. Hosted at <a href="http://raidersesports.com/">Raiders eSports Centre</a>, the league provides a more social experience than queuing up at home.</p>
       <p>At TOBL players will be able to get familiar with playing in an organized team environment, build strategies based on playing against the same teams, and meet other Overwatch players in person in a fun social environment.</p>
-      <p><strong>Season 1 starts on Thursday nights in February, 2018.</strong></p>
+      <p><strong>Season 1 starts on Thursday nights in February, 2018.</strong> <a href="{{ site.baseurl }}/join">Sign up here!</a></p>
     </div>
   </div>
   
