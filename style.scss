@@ -391,21 +391,10 @@ nav {
     url(/images/ow_wallpaper_sm.jpg);
   background-position-x: center;
 	
-  .jumbo-header {
+  .center-vertical {
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-	  
-    h1 {
-      color: $gray; 
-      margin: 0;
-      line-height:110%;
-    }
-    p {
-      color:$gray;
-      max-width:80%;
-      margin: .8em auto;
-    }
   }
 }
 
