@@ -61,7 +61,7 @@ layout: default
           <p>Individual registration opens soon. Sign up for our mailing list and you'll be the first to know.</p>
           <!-- Begin MailChimp Signup Form -->
           <style type="text/css">
-	          #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	          #mc_embed_signup{/*background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;*/ width:100%;}
           </style>
           <div id="mc_embed_signup">
             <form action="https://overwatchtoronto.us17.list-manage.com/subscribe/post?u=8b3de13b281e00b24f345f7e5&amp;id=96eab85b72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
