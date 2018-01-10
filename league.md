@@ -8,7 +8,7 @@ permalink: /league/
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
-      <h1 class="text-center">Toronto's first recreational Overwatch league</h1>
+      <h1 class="page-title text-center">Toronto's first recreational Overwatch league</h1>
       <div>
         <img src="{{ site.baseurl }}/images/tobl_logo.jpg" class="img-responsive img-logo" alt="Toronto Overwatch Beer League logo">
       </div>
