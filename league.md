@@ -8,7 +8,7 @@ permalink: /league/
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
-      <h1 class="page-title text-center">Toronto's first recreational Overwatch league</h1>
+      <h1 class="text-center">Toronto's first recreational Overwatch league</h1>
       <div>
         <img src="{{ site.baseurl }}/images/tobl_logo.jpg" class="img-responsive img-logo" alt="Toronto Overwatch Beer League logo">
       </div>
@@ -19,13 +19,9 @@ permalink: /league/
   </div>
   
   <div class="row justify-content-center page-section-no-line">
-    <div class="col-10 col-sm-10 col-md-8 col-lg-6 mx-auto">
+    <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Location</h1>
       <p>All of our matches take place on LAN at Raiders eSports Centre. Talk strategy with your team, meet other Overwatch players, and enjoy some food and drink while socializing.</p>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-10 col-sm-10 col-md-8 col-lg-6 mx-auto">
       <div class="map-responsive">
         <iframe
   width="600"
