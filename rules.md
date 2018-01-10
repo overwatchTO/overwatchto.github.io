@@ -9,7 +9,7 @@ permalink: /rules/
   
   <div class="row justify-content-center page-section-no-line" style="padding-bottom:3.2em;">
     <div class="col-12 col-md-10 col-xl-8">
-      <h1 class="page-title text-center">Rules</h1>
+      <h1 class="text-center">Rules</h1>
       <p>These rules are a modified version of those posted for ESL Overwatch North America.</p>
       <h2>1. Eligibility</h2>
       <p>Players eligible to play in the league must: (i) have an active Battle.net account that is in good standing; (ii) at the start of each season, are over the age of majority in Canada; (iii) possess a personal licensed copy of Overwatch (PC) associated with their account. All applicable laws and regulations apply. An individual entrant may only win one prize during the tournament.</p>
