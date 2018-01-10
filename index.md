@@ -52,9 +52,15 @@ layout: default
   </div>
 </div>
 
-<div class="jumbotron">
-  <div class="jumbo-header mx-auto" style="height:100px; background-color:white;width:450px;border-radius:4px;">
-    <p class="text-center">The first season begins in February, and individual registration opens soon, so sign up to receive updates!</p>
+<div class="jumbotron-fluid">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10 col-md-8 col-lg-6">
+        <div>
+          <p>WHY HELLO THERE</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
   
