@@ -57,6 +57,8 @@ layout: default
     <div class="row justify-content-center">
       <div class="col-10 col-md-8 col-lg-6">
         <div class="mailing-list-panel">
+          <h1>Stay notified</h1>
+          <p>Individual registration opens soon. Sign up for our mailing list and you'll be the first to know.</p>
           <!-- Begin MailChimp Signup Form -->
           <style type="text/css">
 	          #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
