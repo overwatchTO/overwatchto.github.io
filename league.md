@@ -20,7 +20,7 @@ permalink: /league/
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
-      <h1 class="text-center">Location</h1>
+      <h1>Location</h1>
       <p>All of our matches take place on LAN at Raiders eSports Centre. Talk strategy with your team, meet other Overwatch players, and enjoy some food and drink while socializing.</p>
       <div class="map-responsive">
         <iframe
