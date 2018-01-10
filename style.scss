@@ -399,9 +399,22 @@ nav {
 }
 
 .mailing-list-panel {
+  padding-top: 2em;
+  padding-bottom: 2em;
   color: $white;	
   background-color: $blueDarkest;
   border-radius: 8px;
+	
+  h1 {
+    color: $white;
+    size: 36px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  p {
+    color: $offwhite;
+    text-align: center;
+  }
 }
 
 .img-logo {
