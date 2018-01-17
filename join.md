@@ -29,7 +29,7 @@ permalink: /join/
   
   <div class="row justify-content-center">
     <div class="col-10 col-md-8 col-lg-6">
-      <div class="mailing-list-panel">
+      <div class="mailing-list-panel" style="margin-bottom: 3.6em;">
         <h1>Stay notified</h1>
         <p>Individual registration opens soon. Sign up for our mailing list and you'll be the first to know.</p>
         <!-- Begin MailChimp Signup Form -->
