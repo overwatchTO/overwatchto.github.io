@@ -16,7 +16,7 @@ permalink: /join/
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
       <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night, from the pool of individual signups.</p>
-      <p>Fill out the registration form here <a href="#">here</a>.
+      <p>Fill out the registration form here <a href="#">here</a>.</p>
     </div>
   </div>
   
@@ -24,7 +24,7 @@ permalink: /join/
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Sign up as an individual</h2>
       <p>We'll be opening up individual registration soon. If you'd like to be kept in the loop, sign up for our mailing list.</p>
-                <!-- Begin MailChimp Signup Form -->
+          <!-- Begin MailChimp Signup Form -->
           <style type="text/css">
 	          #mc_embed_signup{/*background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;*/ width:100%;}
           </style>
@@ -44,9 +44,8 @@ permalink: /join/
                 </div>
 	      </div>
             </form>
-</div>
-
-<!--End mc_embed_signup-->
+          </div>
+          <!--End mc_embed_signup-->
     </div>
   </div>
   
