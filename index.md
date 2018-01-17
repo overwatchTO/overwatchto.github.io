@@ -6,7 +6,7 @@ layout: default
     <div class="col-12 col-md-8">
       <h1>Toronto Overwatch Beer League</h1>
       <h4>Toronto's first social Overwatch LAN gaming league</h4>
-      <div class="text-center" style="padding-top:3em;"><button type="button" class="btn btn-primary primary-cta">Sign up for Season One!</button></div>
+      <div class="text-center" style="padding-top:3em;"><a href="{{ site.baseurl }}/join/" class="btn btn-primary primary-cta">Sign up for Season One!</a></div>
       <p class="text-center" style="font-size:80%;"><small>Team registration is now open!</small></p>
     </div>
     <div class="col-12 col-md-4">
@@ -30,7 +30,7 @@ layout: default
         <div class="text-center">
           <img class="feature-icon" style="margin-top:-55px;" src="{{ site.baseurl }}/images/notes-icon.svg" alt="Notes icon">
         </div>
-        <p class="text-center" style="margin-top:-26px;"><a href="#">Create a team</a> or <a href="#">sign up as an individual</a> and get drafted.</p>
+        <p class="text-center" style="margin-top:-26px;"><a href="{{ site.baseurl }}/join/">Create a team</a> or <a href="{{ site.baseurl }}/join/">sign up as an individual</a> and get drafted.</p>
       </div>
     </div>
     <div class="col-10 col-sm-8 col-md-4 mx-auto">
