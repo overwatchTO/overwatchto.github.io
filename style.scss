@@ -474,28 +474,37 @@ nav {
   }
 }
 
-.form-group {
-  margin-bottom: 1em;
+// .form-group {
+//   margin-bottom: 1em;
+// }
+
+// .form-group label {
+//   color: $gray;
+//   font-size: 16px;
+// }
+
+// .form-control { // based on Bootstrap
+//   display: block;
+//   width: 100%;
+//   padding: .5rem .75rem;
+//   font-size: 1rem;
+//   line-height: 1.25;
+//   color: $darkGray;
+//   background-color: $white;
+//   background-image: none;
+//   -webkit-background-clip: padding-box;
+//   background-clip: padding-box;
+//   border: 1px solid rgba(0,0,0,.15);
+//   border-radius: .25rem;
+// }
+
+#mce-EMAIL {
+  width: 100%;	
 }
 
-.form-group label {
-  color: $gray;
-  font-size: 16px;
-}
-
-.form-control { // based on Bootstrap
-  display: block;
-  width: 100%;
-  padding: .5rem .75rem;
-  font-size: 1rem;
-  line-height: 1.25;
-  color: $darkGray;
-  background-color: $white;
-  background-image: none;
-  -webkit-background-clip: padding-box;
-  background-clip: padding-box;
-  border: 1px solid rgba(0,0,0,.15);
-  border-radius: .25rem;
+.mailing-list-label {
+  text-align: left;
+  color: $offWhite;	
 }
 
 input[type="submit"] {
