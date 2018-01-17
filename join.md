@@ -23,11 +23,8 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Sign up as an individual</h2>
-      <p>We'll be opening up individual registration soon. If you'd like to be kept in the loop, sign up for our mailing list.</p>
+      <p>We'll be opening up individual registration soon. If you'd like to be kept in the loop, sign up for our mailing list below.</p>
           <!-- Begin MailChimp Signup Form -->
-          <style type="text/css">
-	          #mc_embed_signup{/*background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;*/ width:100%;}
-          </style>
           <div id="mc_embed_signup">
             <form action="https://overwatchtoronto.us17.list-manage.com/subscribe/post?u=8b3de13b281e00b24f345f7e5&amp;id=96eab85b72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
               <div id="mc_embed_signup_scroll" class="mx-auto">
