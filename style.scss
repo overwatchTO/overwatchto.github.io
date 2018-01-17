@@ -499,14 +499,14 @@ nav {
 // }
 
 #mce-EMAIL {
-  width: 100%;	
+  width: 100% !important;	
 }
 
 .mailing-list-label {
   text-align: left;
   color: $offWhite;
-  font-weight: normal;
-  font-size: 15px;
+  font-weight: normal !important;
+  font-size: 15px !important;
 }
 
 input[type="submit"] {
