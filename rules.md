@@ -32,11 +32,11 @@ permalink: /rules/
       <p>All teams are expected to conduct themselves within accordance of our player conduct standards (as outlined in section 4.1). While each player is held accountable for their own actions, team captains are encouraged to address player conduct issues as quickly as possible to avoid escalation and possible penalties.</p>
       <h4>2.2.2 Streaming</h4>
       <p>Players are permitted and encouraged to stream any Toronto Overwatch Beer League matches that they are participating in, provided the stream is delayed by a minimum of 3 minutes (180 seconds).</p>
-      <h4>Guests</h4>
+      <h4>2.2.3 Guests</h4>
       <p>Players are welcome to have guests join them at the venue, however during matches guests are not to sit with players at their stations nor are they allowed to look at other players' screens.</p>
-      <h4>Screen Watching/Coaching</h4>
+      <h4>2.2.4 Screen Watching/Coaching</h4>
       <p>During matches only registered players and substitutes are permitted to watch players at their stations while they are playing. Teammates are permitted to act as coaches while they are not in game if they wish, however all players must remain with their teams' stations for the duration of the match. Any players found screen watching the opposing team during a match are subject to the rules and penalties outlined in the section regarding cheating (section 4.2)</p>
-      <h2>Match Format and Schedule</h2>
+      <h2>3. Match Format and Schedule</h2>
       <h3>3.1 Match Format</h3>
       <p>Each match will be comprised of a best of 3 maps format. Each map will be played using standard competitive match settings, allowing each team to have an opportunity on attack and defense on any assault, escort, or hybrid maps and best 2 out of 3 on control maps.</p>
       <h4>3.1.1 Map Selection</h4>
@@ -82,7 +82,78 @@ permalink: /rules/
         <li>Oasis</li>
       </ul>
       <h3>3.2 Schedule</h3>
-      <p><em>TBD</em></p>
+      <p>Matches will be played every week at Raiders eSports Centre on LAN. All players must be in attendance at the venue. Each team will face one another at least once during the course of the season.</p>
+      <h4>3.2.1 Match Times and Days</h4>
+      <p>Matches will occur weekly on Thursday nights. Each Thursday will have two scheduled matches. The first match will be scheduled at 7:30pm and the second match will be scheduled at 9:30pm.</p>
+      <p>Toronto Overwatch Beer League organisers will provide live support for the teams during match days.</p>
+      <h4>3.2.2 Bye Weeks</h4>
+      <p>With the league consisting of 6 teams and 4 matches being played per week, 2 teams will be given a bye each week. Based on the nature of the schedule, each team will have a bye week every third week of the schedule.</p>
+      <h4>3.2.3 Playoffs</h4>
+      <p>Playoffs will be played all in one day. Following the end of the regular season, the playoffs will take place on the weekend after a one week break following the last scheduled week of play. The top 4 teams from the regular season will play throughout the day. </p>
+      <h2>4. Match Layout and Rules</h2>
+      <h3>4.1 Roster</h3>
+      <p>At the start of the match, only players currently registered on the team are eligible to play.</p>
+      <h3>4.2 Rule Enforcement</h3>
+      <p>All rules are open to an administrator’s interpretation, and they will have final say on any rulings. Rules may be changed by the Toronto Overwatch Beer League administrators at any time, but all teams will be made aware before doing so, along with a period for discussion with the team captains.</p>
+      <h4>4.2.1 Reporting</h4>
+      <p>Team captains are required to report all applicable information to the match administrator. Team captains are responsible for reporting:</p>
+      <ul>
+        <li>Match results</li>
+        <li>Pauses that occur during the match</li>
+        <li>Player substitutions</li>
+        <li>Any rule violations</li>
+        <li>Any technical issues that occur during the match</li>
+      </ul>
+      <h3>4.3 Patch</h3>
+      <p>All players must be playing on the most current patch available on the Blizzard live North America server.</p>
+      <h3>4.4 Delay of Match Start</h3>
+      <p>If a team is shorthanded at the start of the match, the match can be delayed up to a maximum of 15 minutes to wait for the player to arrive. This is at the discretion of the match administrator after speaking with both team captains. If a team does not have a full 6 man starting roster by that time, the team short of players will forfeit the match.</p>
+      <h3>4.5 Team Positions</h3>
+      <p>The two teams will be organized into different sections of computer terminals in the Raiders eSports Centre. After the coin flip, the loser gets their choice of preferred terminal section, they may choose either the upper level or lower level computer banks. Once each team has been assigned their set of terminals, they must not enter the space of the opposing teams terminals while the match is ongoing.</p>
+      <h2>5. Match Settings</h2>
+      <p>Matches will be set up one map at a time in a custom game format, once the coin toss has been decided and the teams have determined who has first map choice, the order of game lobby management is as follows:</p>
+      <ul>
+        <li>Coin toss winner sets up the lobby for the first match</li>
+        <li>Coin toss loser sets up the lobby for the second match</li>
+        <li>Loser of the second match sets up the last match</li>
+      </ul>
+      <h3>5.1.1 Game Invites</h3>
+      <p>Each team captain is responsible for inviting their team into the match. Once the lobby has been created the creator must invite the opposing team captain.</p>
+      <h3>5.1.2 Map Settings</h3>
+      <p>All games will be created using the following map settings:</p>
+      <ul>
+        <li>Rule Set: Competitive</li>
+        <li>Map Rotation: After a game</li>
+        <li>Map Order: Single Map</li>
+        <li>Return to Lobby: After a game</li>
+        <li>Map Control Point: All</li>
+        <li>Map Option: Disable all maps except for the map that is to be played</li>
+        <li>Hero Options:</li>
+        <ul>
+          <li>Hero Selection Limit: 1 Per Team (all heroes allowed)</li>
+          <li>Allow Hero Switching: On</li>
+          <li>Role Selection Limit: None</li>
+          <li>Respawn as Random Hero: Off</li>
+        </ul>
+        <li>Gameplay Options:</li>
+        <ul>
+          <li>High Bandwidth: On</li>
+          <li>Control Game Mode Format: Best of 3</li>
+          <li>Health Modifier: 100%</li>
+          <li>Damage Modifier: 100%</li>
+          <li>Healing Modifier: 100%</li>
+          <li>Ultimate Charge Rate Modifier: 100%</li>
+          <li>Respawn Time Modifier: 100%</li>
+          <li>Ability Cooldown Modifier: 100%</li>
+          <li>Disable Skins: Off</li>
+          <li>Disable Health Bars: Off</li>
+          <li>Disable Kill Cam: On</li>
+          <li>Disable Kill Feed: Off</li>
+          <li>Headshots Only: Off</li>
+        </ul>
+      </ul>
+      <h2>6. Match Rules</h2>
+      <p><em>Coming soon!</em></p>
     </div>
   </div>
   
