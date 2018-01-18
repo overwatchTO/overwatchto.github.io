@@ -16,7 +16,7 @@ permalink: /join/
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
       <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night, from the pool of individual signups.</p>
-      <p>Fill out the registration form <a href="#">here</a>.</p>
+      <p>Fill out the registration form <a href="https://goo.gl/forms/VVoZOBLtO3sDnZIg1">here</a>.</p>
     </div>
   </div>
   
