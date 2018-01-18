@@ -12,7 +12,7 @@ permalink: /contact/
 </div>
 
 <div class="row justify-content-center">
-  <p class="contact-icons"><a href="mailto:overwatchtorontoorg@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope" aria-hidden="true"></i></a>&emsp;<a href="https://www.twitch.tv/overwatchto"><i class="fa fa-twitch" aria-hidden="true"></i></a>&emsp;<a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></p>
+  <p class="contact-icons"><a href="mailto:overwatchtorontoorg@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope" aria-hidden="true"></i></a>&emsp;<a href="https://www.twitch.tv/overwatchto"><i class="fa fa-twitch" aria-hidden="true"></i></a>&emsp;<a href="https://www.instagram.com/overwatchto/"><i class="fa fa-instagram" aria-hidden="true"></i></a></p>
 </div>
 
 <div class="row justify-content-center p-b-30" style="padding-top:50px;">
