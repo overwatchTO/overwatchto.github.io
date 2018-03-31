@@ -15,15 +15,16 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
-      <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night, from the pool of individual signups.</p>
-      <p>Fill out the registration form <a href="https://goo.gl/forms/VVoZOBLtO3sDnZIg1">here</a>.</p>
+      <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night, from the pool of individual signups. Team registration closes April 27th, 2018.</p>
+      <p>Fill out the team registration form <a href="https://goo.gl/forms/Pz7VZoCnSXH6CMRQ2">here</a>.</p>
     </div>
   </div>
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Sign up as an individual</h2>
-      <p>We'll be opening up individual registration soon. If you'd like to be kept in the loop, sign up for our mailing list below.</p>
+      <p>Don't have a team. No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. Registration closes April 27th, 2018.</p>
+      <p>Fill out the individual registration form <a href="https://goo.gl/forms/TZQNA3oYjmMQ0Vdx2">here</a>.</p>
     </div>
   </div>
   
@@ -31,7 +32,7 @@ permalink: /join/
     <div class="col-10 col-md-8 col-lg-6">
       <div class="mailing-list-panel" style="margin-bottom: 3.6em;">
         <h1>Stay notified</h1>
-        <p>Individual registration opens soon. Sign up for our mailing list and you'll be the first to know.</p>
+        <p>Sign up for our mailing list and you'll be kept up to date on TOBL news and events.</p>
         <!-- Begin MailChimp Signup Form -->
         <style type="text/css">
 	  #mc_embed_signup{/*background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;*/ width:100%;}
