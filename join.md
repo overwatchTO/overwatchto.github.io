@@ -15,7 +15,7 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
-      <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night, from the pool of individual signups. Team registration closes April 27th, 2018.</p>
+      <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. Team registration closes April 27th, 2018.</p>
       <p>Fill out the team registration form <a href="https://goo.gl/forms/Pz7VZoCnSXH6CMRQ2">here</a>.</p>
     </div>
   </div>
