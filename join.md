@@ -23,7 +23,7 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Sign up as an individual</h2>
-      <p>Don't have a team. No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. Registration closes April 27th, 2018.</p>
+      <p>Don't have a team? No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. Registration closes April 27th, 2018.</p>
       <p>Fill out the individual registration form <a href="https://goo.gl/forms/TZQNA3oYjmMQ0Vdx2">here</a>.</p>
     </div>
   </div>
