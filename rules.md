@@ -15,7 +15,7 @@ permalink: /rules/
       <p>Players eligible to play in the league must: (i) have an active Battle.net account that is in good standing; (ii) at the start of each season, are over the age of majority in Canada; (iii) possess a personal licensed copy of Overwatch (PC) associated with their account. All applicable laws and regulations apply. An individual entrant may only win one prize during the tournament.</p>
       <h2>2. Teams</h2>
       <h3>2.1 Toronto Overwatch Beer League</h3>
-      <p>The Toronto Overwatch Beer League is a locally based competition, where teams that are comprised of up to six (6) Players, and four (4) substitutes, compete as part of a team (“Team(s)”) to play the PC version of Overwatch in a LAN based setting exclusively at the Raiders eSports Centre venue. Teams are registered in advance and will add Players as needed to complete a roster. None of the Team members may be associated with more than one Team in the Toronto Overwatch Beer League.</p>
+      <p>The Toronto Overwatch Beer League is a locally based competition, where teams that are comprised of up to six (6) Players, and six (6) substitutes, compete as part of a team (“Team(s)”) to play the PC version of Overwatch in a LAN based setting exclusively at the Raiders eSports Centre venue. Teams are registered in advance and will add Players as needed to complete a roster. None of the Team members may be associated with more than one Team in the Toronto Overwatch Beer League.</p>
       <h4>2.1.1 Team Names</h4>
       <p>All teams will have been selected in advance, selected teams must comply with team naming standards as dictated by an Overwatch Toronto Organization administrator. If an administrator feels that a name is offensive, discriminatory, or in any way is not in keeping with the community standards of the Toronto Overwatch Beer League, the team captain will be asked to resubmit their team name. Teams cannot play until an approved team name has been selected.</p>
       <h4>2.1.2 Team Tags</h4>
@@ -23,7 +23,7 @@ permalink: /rules/
       <h4>2.1.3 Starting Players</h4>
       <p>Each team requires a minimum of six (6) starting players. If the team fails to start the match with a full roster they will face forfeiture. If a team requires time to allow for starting players to arrive the match official can offer a grace period at their discretion.</p>
       <h4>2.1.4 Substitute Players</h4>
-      <p>Each team can have up to four (4) substitute players. Substitute players can be used in any Toronto Overwatch Beer League matches and there is no limit on the total substitutions made per match. Substitutions will occur between maps. In the event of an emergency, teams can be allowed one emergency substitution per match. This emergency substitution will take place after the current map phase has ended (e.g. attack/defense). If the player who needs to leave is unable to finish that phase their team will have to do so shorthanded until the phase is completed. After it is completed the teams will take a short time out to allow the new player to log in and join the game.</p>
+      <p>Each team can have up to six (6) substitute players. Substitute players can be used in any Toronto Overwatch Beer League matches and there is no limit on the total substitutions made per match. Substitutions will occur between maps. In the event of an emergency, teams can be allowed one emergency substitution per match. This emergency substitution will take place after the current map phase has ended (e.g. attack/defense). If the player who needs to leave is unable to finish that phase their team will have to do so shorthanded until the phase is completed. After it is completed the teams will take a short time out to allow the new player to log in and join the game.</p>
       <h4>2.1.5 Sponsorships</h4>
       <p>Teams are free to acquire sponsorships as they please. Neither the Toronto Overwatch Beer League nor the Overwatch Toronto Organization are permitted to take any portion of team sponsorship in any form. Any and all sponsorships of teams may be subject to the standards of Blizzard regarding acceptable sponsorship partners. For further information consult <a href="http://us.blizzard.com/en-us/company/legal/">http://us.blizzard.com/en-us/company/legal/</a></p>
       <h3>2.2 Team Conduct</h3>
@@ -73,6 +73,7 @@ permalink: /rules/
         <li>Hollywood</li>
         <li>King's Row</li>
         <li>Numbani</li>
+        <li>Blizzard World</li>
       </ul>
       <p><strong>Control Maps</strong></p>
       <ul>
@@ -84,7 +85,7 @@ permalink: /rules/
       <h3>3.2 Schedule</h3>
       <p>Matches will be played every week at Raiders eSports Centre on LAN. All players must be in attendance at the venue. Each team will face one another at least once during the course of the season.</p>
       <h4>3.2.1 Match Times and Days</h4>
-      <p>Matches will occur weekly on Thursday nights. Each Thursday will have two scheduled matches. The first match will be scheduled at 7:30pm and the second match will be scheduled at 9:30pm.</p>
+      <p>Matches will occur weekly on Sunday nights.</p>
       <p>Toronto Overwatch Beer League organisers will provide live support for the teams during match days.</p>
       <h4>3.2.2 Bye Weeks</h4>
       <p>With the league consisting of 6 teams and 4 matches being played per week, 2 teams will be given a bye each week. Based on the nature of the schedule, each team will have a bye week every third week of the schedule.</p>
