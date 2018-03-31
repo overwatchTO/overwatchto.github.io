@@ -16,7 +16,8 @@ permalink: /join/
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
       <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 12 players. Team registration closes April 27th, 2018.</p>
-      <p>Team registration will cost <strong>$240</strong> per team. This cost may decrease, depending on the number of teams registered. Teams will play 8 matches in Season 1, plus a playoff day for the top four teams.</p>
+      <p>Team registration will cost <strong>$240</strong> per team. This cost may decrease, depending on the number of teams registered.</p>
+      <p>Teams will play 8 matches in Season 1, plus a playoff day for the top four teams.</p>
       <p>Fill out the team registration form <a href="https://goo.gl/forms/Pz7VZoCnSXH6CMRQ2">here</a>.</p>
     </div>
   </div>
@@ -25,7 +26,7 @@ permalink: /join/
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Sign up as an individual</h2>
       <p>Don't have a team? No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. Registration closes April 27th, 2018.</p>
-      <p>Individual players don't pay registration costs unless they're drafted by a team, at which point their cost is a share of the team's registration fee.</p>.
+      <p>Individual players don't pay registration costs unless they're drafted by a team, at which point their cost is a share of the team's registration fee.</p>
       <p>Fill out the individual registration form <a href="https://goo.gl/forms/TZQNA3oYjmMQ0Vdx2">here</a>.</p>
     </div>
   </div>
