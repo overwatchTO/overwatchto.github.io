@@ -14,7 +14,7 @@ permalink: /league/
       </div>
       <p>The Toronto Overwatch Beer League (TOBL) is an organized league where players can play a full regular season schedule with a consistent team. Hosted at <a href="http://raidersesports.com/">Raiders eSports Centre</a>, the league provides a more social experience than queuing up at home.</p>
       <p>At TOBL players will be able to get familiar with playing in an organized team environment, build strategies based on playing against the same teams, and meet other Overwatch players in person in a fun social environment.</p>
-      <p><strong>Season 1 starts on Thursday nights in February, 2018.</strong> <a href="{{ site.baseurl }}/join">Sign up here!</a></p>
+      <p><strong>Season 1 starts on Sunday nights in May, 2018.</strong> <a href="{{ site.baseurl }}/join">Sign up here!</a></p>
     </div>
   </div>
   
@@ -46,7 +46,7 @@ permalink: /league/
       <h2>What is the Toronto Overwatch Beer League?</h2>
       <p>The Toronto Overwatch Beer League is a recreational eSports league intended to give players of all different skill levels around Toronto the opportunity to play Overwatch in a competitive eSports environment while also providing a fun, social atmosphere.</p>
       <h2>Where do matches take place?</h2>
-      <p>All matches for the Toronto Overwatch Beer League are hosted at Raiders eSports Centre. Once the season begins, matches will take place on Thursday nights, with matches starting at 7:30pm or 9:30pm.</p>
+      <p>All matches for the Toronto Overwatch Beer League are hosted at Raiders eSports Centre. Once the season begins, matches will take place on Sunday nights.</p>
       <h2>Can I play from home?</h2>
       <p>No. The league is built as a LAN organization. All teams come and compete at Raiders and play beside one another, which ensures a more unified team and keeps the league social and interactive.</p>
       <h2>Can I use my own peripherals (e.g. mouse, keyboard)?</h2>
@@ -54,7 +54,7 @@ permalink: /league/
       <h2>How many teams are in the league?</h2>
       <p>At this time, we are limiting the league to 6 teams in total for Season 1. In future seasons the league may expand, depending on demand.</p>
       <h2>How many players on a team?</h2>
-      <p>Teams have a minimum of six players, and a maximum of ten players.</p>
+      <p>Teams have a minimum of six players, and a maximum of twelve players.</p>
       <h2>I don't have a team. Can I still play?</h2>
       <p>Yes! Before Season 1 begins, we'll be opening individual registration. We'll then have a "Player Draft" night where all players who signed up as individuals will be eligible to be drafted. Players and teams can come to Raiders and meet each other, the teams can get a sense of the players that are available in the draft, and a live draft will take place later in the evening. More details about the Draft will be posted soon.</p>
       <h2>I'm not a very high rank. Can I still play?</h2>
