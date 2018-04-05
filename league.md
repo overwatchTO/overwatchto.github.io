@@ -52,7 +52,7 @@ permalink: /league/
       <h2>Can I use my own peripherals (e.g. mouse, keyboard)?</h2>
       <p>Yes, Raiders allows players to bring their own peripherals to use on their machines.</p>
       <h2>How many teams are in the league?</h2>
-      <p>At this time, we are limiting the league to 6 teams in total for Season 1. In future seasons the league may expand, depending on demand.</p>
+      <p>At this time, we are limiting the league to 8 teams in total for Season 1. In future seasons the league may expand, depending on demand.</p>
       <h2>How many players on a team?</h2>
       <p>Teams have a minimum of six players, and a maximum of twelve players.</p>
       <h2>I don't have a team. Can I still play?</h2>
