@@ -92,7 +92,7 @@ layout: default
   <div class="row page-section-no-line">
     <div class="col-10 col-sm-10 col-md-8 col-lg-6 mx-auto">
       <h1 class="text-center">Raiders eSports Centre</h1>
-      <p>All of our matches take place on LAN at Raiders eSports Centre. Meet other Overwatch players, talk strategy, and enjoy some food and drink while socializing.</p>
+	    <p>All of our matches take place on LAN at <a href="http://raidersesports.com/">Raiders eSports Centre</a>. Meet other Overwatch players, talk strategy, and enjoy some food and drink while socializing.</p>
       <p>Raiders boasts 7000 square feet, 21 high end gaming PCs, 30 TVs, retro gaming machines, and a full service kitchen. Located just two minutes from St. Clair Station.</p>
     </div>
   </div>
