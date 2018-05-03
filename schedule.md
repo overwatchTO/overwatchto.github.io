@@ -14,7 +14,7 @@ permalink: /schedule/
         <li><strong>4:30pm:</strong> Seal Team 6ix vs. Team in the Dot</li>
         <li><strong>6:00pm:</strong> Thought Patrol vs. Who's the Boss</li>
       </ul>
-      <h4>3:00pm</h4>
+      <h3>3:00pm</h3>
       <p><strong>Team Names Are Hard</strong> vs. <strong>Trash Pandamonium</strong></p>
       <h4>4:30pm</h4>
       <p><strong>Seal Team 6ix</strong> vs. <strong>Team in the Dot</strong></p>
