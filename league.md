@@ -52,7 +52,7 @@ permalink: /league/
       <h2>Can I use my own peripherals (e.g. mouse, keyboard)?</h2>
       <p>Yes, Raiders allows players to bring their own peripherals to use on their machines.</p>
       <h2>How many teams are in the league?</h2>
-      <p>At this time, we are limiting the league to 8 teams in total for Season 1. In future seasons the league may expand, depending on demand.</p>
+      <p>At this time, we are limiting the league to 6 teams in total for Season 1. In future seasons the league may expand, depending on demand.</p>
       <h2>How many players on a team?</h2>
       <p>Teams have a minimum of six players, and a maximum of twelve players.</p>
       <h2>I don't have a team. Can I still play?</h2>
@@ -60,7 +60,7 @@ permalink: /league/
       <h2>I'm not a very high rank. Can I still play?</h2>
       <p>Yes. There is no minimum entry rank to be eligible to play in the league. The intention of the league is for players to have fun and enjoy Overwatch as a team game, as well as socialize.</p>
       <h2>How much will it cost to play?</h2>
-      <p>The final cost per person is still being determined, but our aim is to keep the cost of playing as low as possible. The Overwatch Toronto Organization (the organizers of the Toronto Overwatch Beer League) and everyone else working on this are not doing it for profit. We are estimating that, per team, the registration cost should be somewhere between $250-350, or $25 to $35 per person for a team with a full 10 player roster.</p>
+      <p>The final cost per person is still being determined, but our aim is to keep the cost of playing as low as possible. The Overwatch Toronto Organization (the organizers of the Toronto Overwatch Beer League) and everyone else working on this are not doing it for profit. Team registration cost is $175 for Season 1, with the fee to be split amongst the individual players on the team.</p>
       <h2>What is the registration fee for?</h2>
       <p>The registration fee is almost entirely to cover the cost of the facilities at Raiders eSports Centre. Beyond that, there are also some small ancillary costs to cover, such as web hosting, etc.</p>
       <h2>Do I need to own a copy of Overwatch to play in the league?</h2>
