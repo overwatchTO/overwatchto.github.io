@@ -15,9 +15,9 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
-      <p>If you have at least two players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 12 players. <strong>Registration closes April 27th, 2018</strong>.</p>
-      <p>Team registration will cost <strong>$240</strong> per team. This cost may decrease, depending on the number of teams registered. Costs will be finalized before Draft Night, and team payment is due before the first day of matches.</p>
-      <p>Teams will play 8 matches in Season 1, plus a playoff day for the top four teams.</p>
+      <p>If you have at least two players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 12 players. <strong>Registration for Season 1 closed on April 27th, 2018</strong>.</p>
+      <p>Team registration costs <strong>$175</strong> per team. This cost may decrease, depending on the number of teams registered. Costs will be finalized before Draft Night, and team payment is due before the first day of matches.</p>
+      <p>Teams will play 5 matches in Season 1, plus a playoff day for the top four teams.</p>
       <p><strong>Registration for Season 1 is now closed!</strong></p>
     </div>
   </div>
@@ -25,7 +25,7 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Sign up as an individual</h2>
-      <p>Don't have a team? No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. <strong>Registration closes April 27th, 2018</strong>.</p>
+      <p>Don't have a team? No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. <strong>Registration for Season 1 closed on April 27th, 2018</strong>.</p>
       <p>Individual players don't pay registration costs unless they're drafted by a team, at which point their cost is a share of the team's registration fee.</p>
       <p><strong>Registration for Season 1 is now closed!</strong></p>
     </div>
