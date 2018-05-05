@@ -88,9 +88,9 @@ permalink: /rules/
       <p>Matches will occur weekly on Sunday nights.</p>
       <p>Toronto Overwatch Beer League organisers will provide live support for the teams during match days.</p>
       <h4>3.2.2 Bye Weeks</h4>
-      <p>With the league consisting of 6 teams and 4 matches being played per week, 2 teams will be given a bye each week. Based on the nature of the schedule, each team will have a bye week every third week of the schedule.</p>
+      <p>With the league consisting of 6 teams and 3 matches being played per week, all teams will play each week. During weekends with holidays or other conflicting events at the venue, all teams will be given a bye week, and the schedule will be resumed the following week.</p>
       <h4>3.2.3 Playoffs</h4>
-      <p>Playoffs will be played all in one day. Following the end of the regular season, the playoffs will take place on the weekend after a one week break following the last scheduled week of play. The top 4 teams from the regular season will play throughout the day. </p>
+      <p>Playoffs will be played all in one day. Following the end of the regular season, the playoffs will take place on the weekend following the last scheduled week of play. The top 4 teams from the regular season will play throughout the day.</p>
       <h2>4. Match Layout and Rules</h2>
       <h3>4.1 Roster</h3>
       <p>At the start of the match, only players currently registered on the team are eligible to play.</p>
