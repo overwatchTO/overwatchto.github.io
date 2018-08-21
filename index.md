@@ -7,7 +7,7 @@ layout: default
       <h1>Toronto Overwatch Beer League</h1>
       <h4>Toronto's first social Overwatch LAN gaming league</h4>
       <div class="text-center" style="padding-top:3em;"><a href="{{ site.baseurl }}/join/" class="btn btn-primary primary-cta">Sign up for TOBL</a></div>
-      <p class="text-center" style="font-size:80%;"><small>Registration for Season 1 is now closed.</small></p>
+      <p class="text-center" style="font-size:80%;"><small>Season 2 registration now open!</small></p>
     </div>
     <div class="col-12 col-md-4">
       <div>
@@ -46,7 +46,7 @@ layout: default
         <div class="text-center">
           <img class="feature-icon" src="{{ site.baseurl }}/images/raiders_full_logo_white_stroke.png" alt="Raiders eSports Logo">
         </div>
-        <p class="text-center">Play on LAN at <a href="http://raidersesports.com/">Raiders eSports Centre</a>. Have fun and socialize.</p>
+        <p class="text-center">Play on LAN at <a href="https://www.facebook.com/thehiveesports/">The Hive Esports</a>. Have fun and socialize.</p>
       </div>
     </div>
   </div>
@@ -91,9 +91,9 @@ layout: default
 <div class="container">
   <div class="row page-section-no-line">
     <div class="col-10 col-sm-10 col-md-8 col-lg-6 mx-auto">
-      <h1 class="text-center">Raiders eSports Centre</h1>
-	    <p>All of our matches take place on LAN at <a href="http://raidersesports.com/">Raiders eSports Centre</a>. Meet other Overwatch players, talk strategy, and enjoy some food and drink while socializing.</p>
-      <p>Raiders boasts 7000 square feet, 21 high end gaming PCs, 30 TVs, retro gaming machines, and a full service kitchen. Located just two minutes from St. Clair Station.</p>
+      <h1 class="text-center">The Hive Esports</h1>
+	    <p>All of our matches take place on LAN at <a href="https://www.facebook.com/thehiveesports/">The Hive Esports</a>. Meet other Overwatch players, talk strategy, and enjoy some food and drink while socializing.</p>
+      <p>The Hive boasts 7000 square feet, 21 high end gaming PCs, 30 TVs, retro gaming machines, and a full service kitchen. Located just two minutes from St. Clair Station.</p>
     </div>
   </div>
   <div class="row">
@@ -103,7 +103,7 @@ layout: default
   width="600"
   height="450"
   frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/search?key=AIzaSyB2QqM7gHcMFUCvp2jbLMkNCY6VQJ7hg5s&q=Raiders+esports" allowfullscreen>
+  src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.108236193582!2d-79.39813908430126!3d43.687513158228825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b335b46a62d57%3A0x7299f91389e798f8!2sThe+Hive!5e0!3m2!1sen!2sca!4v1534813576278" allowfullscreen>
 </iframe>
       </div>
     </div>
