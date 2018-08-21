@@ -15,19 +15,19 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
-      <p>If you have at least two players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 12 players. <strong>Registration for Season 1 closed on April 27th, 2018</strong>.</p>
-      <p>Team registration costs <strong>$175</strong> per team. This cost may decrease, depending on the number of teams registered. Costs will be finalized before Draft Night, and team payment is due before the first day of matches.</p>
-      <p>Teams will play 5 matches in Season 1, plus a playoff day for the top four teams.</p>
-      <p><strong>Registration for Season 1 is now closed!</strong></p>
+      <p>If you have at least two players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 12 players. <strong>Registration for Season 2 closes on September 16th, 2018</strong>.</p>
+      <p>Team registration costs <strong>$175</strong> per team. Team payment is due before the first day of matches.</p>
+      <p>Teams will play 5 matches in Season 2, plus a playoff day for the top four teams.</p>
+      <p><strong>Registration for Season 2 closes on September 16th</strong></p>
     </div>
   </div>
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Sign up as an individual</h2>
-      <p>Don't have a team? No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. <strong>Registration for Season 1 closed on April 27th, 2018</strong>.</p>
+      <p>Don't have a team? No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins. <strong>Registration for Season 2 closes on September 16th, 2018</strong>.</p>
       <p>Individual players don't pay registration costs unless they're drafted by a team, at which point their cost is a share of the team's registration fee.</p>
-      <p><strong>Registration for Season 1 is now closed!</strong></p>
+      <p>All players will be required to pay a $10 registration deposit to be eligible to participate in the player draft. Player deposits are refundable in the event a draft does not take place, or if the player is not drafted to a team. Payment can be made either via Paypal to overwatchtorontoorg@gmail.com, or in person at the Preseason Showcase event and Draft Night.
     </div>
   </div>
   
