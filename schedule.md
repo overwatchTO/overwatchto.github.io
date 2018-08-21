@@ -7,12 +7,18 @@ permalink: /schedule/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Schedule</h1>
-      <p>Season 1 of the Toronto Overwatch Beer League starts on May 6th, 2018! All matches take place on LAN at <a href="http://raidersesports.com/">Raiders eSports Centre</a>.</p>
-      <p>Here's the schedule for Week 1:</p>
+      <p>Season 2 of the Toronto Overwatch Beer League starts in early September, 2018! All matches take place on LAN at <a href="https://www.facebook.com/thehiveesports/">The Hive Esports</a>.</p>
+      <p>Here's the tentative schedule:</p>
       <ul>
-        <li><strong>3:00pm:</strong> <em>Team Names Are Hard</em> vs. <em>Trash Pandamonium</em></li>
-        <li><strong>4:30pm:</strong> <em>Seal Team 6ix</em> vs. <em>Team in the Dot</em></li>
-        <li><strong>6:00pm:</strong> <em>Thought Patrol</em> vs. <em>Who's the Boss</em></li>
+        <li><strong>September 2nd</strong> Preseason Showcase Day</li>
+        <li><strong>September 16th</strong> Showcase #2 and Draft Day</li>
+        <li><strong>September 23rd</strong> Matchday 1</li>
+        <li><strong>September 30th</strong> Matchday 2</li>
+        <li><strong>October 14th</strong> Matchday 3</li>
+        <li><strong>October 21st</strong> Matchday 4</li>
+        <li><strong>November 4th</strong> Matchday 5</li>
+        <li><strong>November 11th</strong> Matchday 6 (reserved for any rescheduled matches</li>
+        <li><strong>November 25th</strong> Playoffs</li>
       </ul>
     </div>
   </div>
