@@ -103,7 +103,7 @@ layout: default
   width="600"
   height="450"
   frameborder="0" style="border:0"
-  src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.108236193582!2d-79.39813908430126!3d43.687513158228825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b335b46a62d57%3A0x7299f91389e798f8!2sThe+Hive!5e0!3m2!1sen!2sca!4v1534813576278" allowfullscreen>
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.1084227746137!2d-79.39813908425393!3d43.68750927912014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b335b46a62d57%3A0x7299f91389e798f8!2sThe+Hive!5e0!3m2!1sen!2sca!4v1534813943290" allowfullscreen>
 </iframe>
       </div>
     </div>
