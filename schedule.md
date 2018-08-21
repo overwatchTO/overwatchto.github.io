@@ -17,7 +17,7 @@ permalink: /schedule/
         <li><strong>October 14th</strong> Matchday 3</li>
         <li><strong>October 21st</strong> Matchday 4</li>
         <li><strong>November 11th</strong> Matchday 5</li>
-        <li><strong>November 25th</strong> Matchday 6 (reserved for any rescheduled matches</li>
+        <li><strong>November 25th</strong> Matchday 6 (reserved for any rescheduled matches)</li>
         <li><strong>December 2nd</strong> Playoffs</li>
       </ul>
     </div>
