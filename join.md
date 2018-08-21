@@ -18,7 +18,7 @@ permalink: /join/
       <p>If you have at least two players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 12 players. <strong>Registration for Season 2 closes on September 16th, 2018</strong>.</p>
       <p>Team registration costs <strong>$175</strong> per team. Team payment is due before the first day of matches.</p>
       <p>Teams will play 5 matches in Season 2, plus a playoff day for the top four teams.</p>
-	    <p><a href="https://goo.gl/forms/yHHl1IMQgQeNfbt43">Click here to register a team</a>.</p>
+      <p><a href="https://goo.gl/forms/yHHl1IMQgQeNfbt43">Click here to register a team</a></p>
       <p><strong>Registration for Season 2 closes on September 16th</strong></p>
     </div>
   </div>
@@ -28,9 +28,9 @@ permalink: /join/
       <h2>Sign up as an individual</h2>
       <p>Don't have a team? No problem! You can sign up as an individual and get drafted to a team on our Draft Night before the season begins.</p>
       <p>Individual players don't pay registration costs unless they're drafted by a team, at which point their cost is a share of the team's registration fee.</p>
-	    <p>All players will be required to pay a <strong>$10 registration deposit</strong> to be eligible to participate in the player draft. Player deposits are refundable in the event a draft does not take place, or if the player is not drafted to a team. Payment can be made either via Paypal to <a href="mailto:overwatchtorontoorg@gmail.com">overwatchtorontoorg@gmail.com</a>, or in person at the Preseason Showcase event and Draft Night.</p>
-	    <p><a href="https://goo.gl/forms/3aGH04o6mwL5RW9F2">Click here to sign up as an individual</a>.</p>
-	    <p><strong>Registration for Season 2 closes on September 16th, 2018</strong>.</p>
+      <p>All players will be required to pay a <strong>$10 registration deposit</strong> to be eligible to participate in the player draft. Player deposits are refundable in the event a draft does not take place, or if the player is not drafted to a team. Payment can be made either via Paypal to <a href="mailto:overwatchtorontoorg@gmail.com">overwatchtorontoorg@gmail.com</a>, or in person at the Preseason Showcase event and Draft Night.</p>
+      <p><a href="https://goo.gl/forms/3aGH04o6mwL5RW9F2">Click here to sign up as an individual</a></p>
+      <p><strong>Registration for Season 2 closes on September 16th, 2018</strong>.</p>
     </div>
   </div>
   
