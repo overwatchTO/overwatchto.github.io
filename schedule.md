@@ -7,19 +7,62 @@ permalink: /schedule/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Schedule</h1>
-      <p>Season 2 of the Toronto Overwatch Beer League starts in early September, 2018! All matches take place on LAN at <a href="https://www.facebook.com/thehiveesports/">The Hive Esports</a>.</p>
-      <p>Here's the tentative schedule:</p>
+      <p>Season 2 of the Toronto Overwatch Beer League is underway! All matches take place on LAN at <a href="https://www.facebook.com/thehiveesports/">The Hive Esports</a>.</p>
+      <p>Here's the schedule:</p>
+      <h3>Week 1: September 23rd</h3>
       <ul>
-        <li><strong>September 2nd</strong> Preseason Showcase Day</li>
-        <li><strong>September 16th</strong> Showcase #2 and Draft Day</li>
-        <li><strong>September 23rd</strong> Matchday 1</li>
-        <li><strong>September 30th</strong> Matchday 2</li>
-        <li><strong>October 14th</strong> Matchday 3</li>
-        <li><strong>October 21st</strong> Matchday 4</li>
-        <li><strong>November 11th</strong> Matchday 5</li>
-        <li><strong>November 25th</strong> Matchday 6 (reserved for any rescheduled matches)</li>
-        <li><strong>December 2nd</strong> Playoffs</li>
+        <li><strong>2pm</strong> Trash Pandamonium vs EggWoke</li>
+        <li><strong>4pm</strong> Teamy Mcteamface vs Thought Patrol</li>
+        <li><strong>6pm</strong> Toronto Timmies vs Only 90s Kids</li>
+        <li><strong>8pm</strong> Moose Mafia vs Los Diablos</li>
       </ul>
+      <p><strong>Maps</strong>: Hanamura, Route 66, Hollywood, Nepal, Junkertown</p>
+      
+      <h3>Week 2: September 30th</h3>
+      <ul>
+        <li><strong>2pm</strong> Only 90s Kids vs Los Diablos</li>
+        <li><strong>4pm</strong> Teamy McTeamface vs Trash Pandamonium</li>
+        <li><strong>6pm</strong> EggWoke vs Thought Patrol</li>
+        <li><strong>8pm</strong> Toronto Timmies vs Moose Mafia</li>
+      </ul>
+      <p><strong>Maps</strong>: Dorado, Blizzard World, Oasis, Volskaya Industries, Watchpoint: Gibraltar</p>
+      
+      <h3>Week 3: October 14th</h3>
+      <ul>
+        <li><strong>2pm</strong> Moose Mafia vs Teamy McTeamface</li>
+        <li><strong>4pm</strong> Thought Patrol vs Los Diablos</li>
+        <li><strong>6pm</strong> Toronto Timmies vs Trash Pandamonium</li>
+        <li><strong>8pm</strong> Eggwoke vs Only 90s Kids</li>
+      </ul>
+      <p><strong>Maps</strong>: Numbani, Lijiang Tower, Temple of Anubis, Rialto, Horizon Lunar Colony</p>
+      
+      <h3>Week 4: October 21st</h3>
+      <ul>
+        <li><strong>2pm</strong> Thought Patrol vs Toronto Timmies</li>
+        <li><strong>4pm</strong> Moose Mafia vs EggWoke</li>
+        <li><strong>6pm</strong> Los Diablos vs Trash Pandamonium</li>
+        <li><strong>8pm</strong> Only 90s Kids vs Teamy McTeamface</li>
+      </ul>
+      <p><strong>Maps</strong>: Busan, Hanamura, Dorado, Eichenwalde, Junkertown</p>
+      
+      <h3>Week 5: November 11th</h3>
+      <ul>
+        <li><strong>2pm</strong> Moose Mafia vs Trash Pandamonium</li>
+        <li><strong>4pm</strong> Eggwoke vs Los Diablos</li>
+        <li><strong>6pm</strong> Only 90s Kids vs Thought Patrol</li>
+        <li><strong>8pm</strong> Teamy McTeamface vs Toronto Timmies</li>
+      </ul>
+      <p><strong>Maps</strong>: Temple of Anubis, Watchpoint: Gibraltar, King's Row, Nepal, Hanamura</p>
+      
+      <h3>Week 6: November 25th</h3>
+      <ul>
+        <li><strong>2pm</strong> Eggwoke vs Teamy McTeamface</li>
+        <li><strong>4pm</strong> Toronto Timmies vs Los Diablos</li>
+        <li><strong>6pm</strong> Moose Mafia vs Only 90s Kids</li>
+        <li><strong>8pm</strong> Trash Pandamonium vs Thought Patrol</li>
+      </ul>
+      <p><strong>Maps</strong>: Rialto, Eichenwalde, Ilios, Volskaya Industries, Temple of Anubis</p>
+      
     </div>
   </div>
 </div>
