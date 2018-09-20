@@ -12,7 +12,7 @@ permalink: /schedule/
       <h3>Week 1: September 23rd</h3>
       <ul>
         <li><strong>2pm</strong> Trash Pandamonium vs EggWoke</li>
-        <li><strong>4pm</strong> Teamy Mcteamface vs Thought Patrol</li>
+        <li><strong>4pm</strong> Teamy McTeamface vs Thought Patrol</li>
         <li><strong>6pm</strong> Toronto Timmies vs Only 90s Kids</li>
         <li><strong>8pm</strong> Moose Mafia vs Los Diablos</li>
       </ul>
