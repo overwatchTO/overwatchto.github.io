@@ -142,7 +142,39 @@ permalink: /rules/
         </ul>
       </ul>
       <h2>6. Match Rules</h2>
-      <p><em>Coming soon!</em></p>
+      <h3>6.1 Pauses</h3>
+      <p>A game can be paused for a total of 5 minutes per map. This can only be done in emergency circumstances or to resolve a technical issue. Upon a game being paused the match administrator will monitor the time paused and oversee the issue.</p>
+      <h3>6.2 Game Restart</h3>
+      <p>In emergency or extreme circumstances a match administrator can grant a game restart. This should only be reserved for instances where a technical issue has occurred or if the game has been started with incorrect game settings. The match administrator ultimately has full discretion on when a game can be restarted.</p>
+      <h2>7. Player Conduct</h2>
+      <p>All players in the Toronto Overwatch Beer League are expected to behave in a respectful and sportsmanlike way with their team and competitors, outlined in this section is a detailed guideline for appropriate player behaviour and actions.</p>
+      <h4>7.1.1 Disruptive Behaviour</h4>
+      <p>Teams are expected to play at the utmost ability during all matches and maintain a behaviour of sportsmanship and fair play. Any behaviour or actions that would lead to unfair play will not be tolerated. Behaviours such as hacking, ‘throwing’, ringing, intentional disconnection, or cheating are all considered unsportsmanlike play. Match administrators are the sole arbiters of whether players are conducting themselves accordingly in match and any rulings are at their discretion.</p>
+      <h4>7.1.2 Profanity and Hate Speech</h4>
+      <p>Players must refrain from using language that would publicly be considered vulgar, insulting, abusive, threatening, or otherwise objectionable. Players should discourage this type of behaviour in all instances.</p>
+      <h4>7.1.3 Penalties</h4>
+      <p>Any instances where player conduct is seen to be in breach of the rules outlined can be subject to a team penalty at the match administrators discretion. The nature and extent of the penalty is at the discretion of the administrator. Depending on the severity of the infraction penalties can range from:</p>
+      <ul>
+        <li>Verbal warning</li>
+        <li>Written warning (two consecutive written warnings will result in a player being banned in their next scheduled match)</li>
+        <li>User game bans</li>
+        <li>User match bans</li>
+        <li>Forfeit of game round</li>
+        <li>Forfeit of match</li>
+      </ul>
+      <p>Penalties more severe than these would be determined on a case by case basis and are at the discretion of the leadership of the Overwatch Toronto Organization along with the offending team's captain.</p>
+      <h3>7.2 Cheating</h3>
+      <p>Players must perform to the best of the abilities at all times. All players are expected to know and understand the rules as outlined in this document and compete within these parameters. No cheating of any kind will be tolerated in the Toronto Overwatch Beer League. Players found to be cheating can face disqualification from the league. The Overwatch Toronto Organization and Toronto Overwatch Beer League accept no responsibility in the event a user has their license revoked by Blizzard Entertainment on the grounds of cheating. Cheating can include but is not limited to the following behaviours:</p>
+      <ul>
+        <li>Use of aim assist or hacking tools in game</li>
+        <li>Hacked or modded hardware (e.g. keyboard/mouse) that is un-sanctioned by the manufacturer</li>
+        <li>DDoS attacks</li>
+        <li>False identity or "ringers" playing under another user's account</li>
+      </ul>
+      <h3>7.3 Player Verification</h3>
+      <p>ALL PLAYERS MUST BE VERIFIED TO ENSURE THEIR ELIGIBILITY PRIOR TO BEING DECLARED A WINNER (AS DEFINED BELOW) AND/OR RECEIVING ANY PRIZE. DISPLAY OF STATISTICS IN THE GAME (E.G. ON A LEADERBOARD) DURING THE TORONTO OVERWATCH BEER LEAGUE SEASON DOES NOT ENTITLE ANY ELIGIBLE PARTICIPANT TO A PRIZE.</p>
+      <h2>8. General Release</h2>
+      <p>As a condition to being allowed to participate in this Competition and to the greatest extent permitted by the applicable laws and regulations, Players agree to release and hold harmless Released Parties from any liability whatsoever, and waive any and all causes of action, related to any claims, costs, injuries, losses, or damages of any kind arising out of or in connection with the Competition or delivery, misdelivery, acceptance, possession, use of or inability to use any prize (including, without limitation, claims, costs, injuries, losses and damages related to personal injuries, death, damage to or destruction of property, rights of publicity or privacy, defamation or portrayal in a false light, whether intentional or unintentional), whether under a theory of contract, tort (including negligence), warranty or other theory.</p>
     </div>
   </div>
   
