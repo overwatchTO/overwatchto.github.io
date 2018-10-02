@@ -15,13 +15,13 @@ permalink: /rules/
       <p>Players eligible to play in the league must: (i) have an active Battle.net account that is in good standing; (ii) at the start of each season, are over the age of majority in Canada; (iii) possess a personal licensed copy of Overwatch (PC) associated with their account. All applicable laws and regulations apply. An individual entrant may only win one prize during the tournament.</p>
       <h2>2. Teams</h2>
       <h3>2.1 Toronto Overwatch Beer League</h3>
-      <p>The Toronto Overwatch Beer League is a locally based competition, where teams that are comprised of up to six (6) Players, and six (6) substitutes, compete as part of a team (“Team(s)”) to play the PC version of Overwatch in a LAN based setting exclusively at the Raiders eSports Centre venue. Teams are registered in advance and will add Players as needed to complete a roster. None of the Team members may be associated with more than one Team in the Toronto Overwatch Beer League.</p>
+      <p>The Toronto Overwatch Beer League is a locally based competition, where teams that are comprised of up to six (6) Players, and six (6) substitutes, compete as part of a team (“Team(s)”) to play the PC version of Overwatch in a LAN based setting exclusively at the The Hive Esports Centre venue. Teams are registered in advance and will add Players as needed to complete a roster. None of the Team members may be associated with more than one Team in the Toronto Overwatch Beer League.</p>
       <h4>2.1.1 Team Names</h4>
       <p>All teams will have been selected in advance, selected teams must comply with team naming standards as dictated by an Overwatch Toronto Organization administrator. If an administrator feels that a name is offensive, discriminatory, or in any way is not in keeping with the community standards of the Toronto Overwatch Beer League, the team captain will be asked to resubmit their team name. Teams cannot play until an approved team name has been selected.</p>
       <h4>2.1.2 Team Tags</h4>
       <p>Each team will also have a team tag as an abbreviated version of their team name. These tags can be from 2-6 characters in length. As with the team names all team tags must be submitted to an Overwatch Toronto Organization administrator and must conform to the same standards as outlined above.</p>
       <h4>2.1.3 Starting Players</h4>
-      <p>Each team requires a minimum of six (6) starting players. If the team fails to start the match with a full roster they will face forfeiture. If a team requires time to allow for starting players to arrive the match official can offer a grace period at their discretion.</p>
+      <p>Each team requires a minimum of six (6) starting players. If the team fails to start the match with a full roster they will face forfeiture. If a team requires time to allow for starting players to arrive the match official can offer a grace period at their discretion. If agreed upon by the opposing team, a team can use a suitable "fill in" player if available. However, this is at the opposing team captain's discretion.</p>
       <h4>2.1.4 Substitute Players</h4>
       <p>Each team can have up to six (6) substitute players. Substitute players can be used in any Toronto Overwatch Beer League matches and there is no limit on the total substitutions made per match. Substitutions will occur between maps. In the event of an emergency, teams can be allowed one emergency substitution per match. This emergency substitution will take place after the current map phase has ended (e.g. attack/defense). If the player who needs to leave is unable to finish that phase their team will have to do so shorthanded until the phase is completed. After it is completed the teams will take a short time out to allow the new player to log in and join the game.</p>
       <h4>2.1.5 Sponsorships</h4>
@@ -31,28 +31,21 @@ permalink: /rules/
       <h4>2.2.1 Sportsmanlike Play</h4>
       <p>All teams are expected to conduct themselves within accordance of our player conduct standards (as outlined in section 4.1). While each player is held accountable for their own actions, team captains are encouraged to address player conduct issues as quickly as possible to avoid escalation and possible penalties.</p>
       <h4>2.2.2 Streaming</h4>
-      <p>Players are permitted and encouraged to stream any Toronto Overwatch Beer League matches that they are participating in, provided the stream is delayed by a minimum of 3 minutes (180 seconds).</p>
+      <p>Players are permitted and encouraged to stream any Toronto Overwatch Beer League matches that they are participating in, provided the stream is delayed by 30 seconds.</p>
       <h4>2.2.3 Guests</h4>
       <p>Players are welcome to have guests join them at the venue, however during matches guests are not to sit with players at their stations nor are they allowed to look at other players' screens.</p>
       <h4>2.2.4 Screen Watching/Coaching</h4>
       <p>During matches only registered players and substitutes are permitted to watch players at their stations while they are playing. Teammates are permitted to act as coaches while they are not in game if they wish, however all players must remain with their teams' stations for the duration of the match. Any players found screen watching the opposing team during a match are subject to the rules and penalties outlined in the section regarding cheating (section 4.2)</p>
       <h2>3. Match Format and Schedule</h2>
       <h3>3.1 Match Format</h3>
-      <p>Each match will be comprised of a best of 3 maps format. Each map will be played using standard competitive match settings, allowing each team to have an opportunity on attack and defense on any assault, escort, or hybrid maps and best 2 out of 3 on control maps.</p>
+      <p>Each match will be comprised of a best of 5 maps format. Each map will be played using standard competitive match settings, allowing each team to have an opportunity on attack and defense on any assault, escort, or hybrid maps and best 2 out of 3 on control maps.</p>
       <h4>3.1.1 Map Selection</h4>
-      <p>The 3 maps to be played will be selected at the start of the match by the team captains and the match official. The order of the map selection is based off of a coin toss. After the coin toss the map selection goes as follows:
-</p>
-      <ul>
-        <li>Winner picks first map</li>
-        <li>Loser picks first ban</li>
-        <li>Winner picks second ban</li>
-        <li>Loser picks second map</li>
-        <li>The third map is randomly selected from the remaining map pool</li>
-      </ul>
+      <p>Map selecttion will be predetermined for each week of the schedule. The map pool for each week will be posted at the start of the season and available to all teams.</p>
       <h4>3.1.2 Random Map Selection</h4>
-      <p>The third map in any match is seslected at random from the remaining pool of maps excluding the selected and banned maps.</p>
+      <p>Map selection for the season is determined using the following methodology:</p>
+      <blockquote>Each week there will be a randomly selected map for assault, escort, hybrid, and control map types. The fifth map each week will be a randomly selected map from all map groups. Each week the map types rotate in order of which type is first, second, third, and fourth. For example, if control is the first map type in Week 1 it would be the second map type in Week 2, the third in Week 3, and so on.</blockquote>
       <h4>3.1.3 Map Pool</h4>
-      <p>The Toronto Overwatch Beer League will use all maps currently playable in Overwatch competitive play as eligible for match selections. The eligible maps for Toronto Overwatch Beer League - Season One are:</p>
+      <p>The Toronto Overwatch Beer League will use all maps currently playable in Overwatch competitive play as eligible for match selections. The eligible maps for Season 2 are:</p>
       <p><strong>Assault Maps</strong></p>
       <ul>
         <li>Hanamura</li>
@@ -66,6 +59,7 @@ permalink: /rules/
         <li>Junkertown</li>
         <li>Route 66</li>
         <li>Watchpoint: Gibraltar</li>
+        <li>Rialto</li>
       </ul>
       <p><strong>Hybrid Maps</strong></p>
       <ul>
@@ -83,19 +77,18 @@ permalink: /rules/
         <li>Oasis</li>
       </ul>
       <h3>3.2 Schedule</h3>
-      <p>Matches will be played every week at Raiders eSports Centre on LAN. All players must be in attendance at the venue. Each team will face one another at least once during the course of the season.</p>
+      <p>Matches will be played every week at The Hive Esports Centre on LAN. All players must be in attendance at the venue.</p>
       <h4>3.2.1 Match Times and Days</h4>
-      <p>Matches will occur weekly on Sunday nights.</p>
-      <p>Toronto Overwatch Beer League organisers will provide live support for the teams during match days.</p>
+      <p>Matches will occur weekly on Sunday nights. Each Sunday will have four scheduled matches, at 2pm, 4pm, 6pm, and 8pm. Toronto Overwatch Beer League organisers will provide live support for the teams during match days.</p>
       <h4>3.2.2 Bye Weeks</h4>
-      <p>With the league consisting of 6 teams and 3 matches being played per week, all teams will play each week. During weekends with holidays or other conflicting events at the venue, all teams will be given a bye week, and the schedule will be resumed the following week.</p>
+      <p>Bye weeks may be scheduled depending on the total number of teams in the given season. In instances where there are odd numbers of teams, bye weeks may be scheduled to allow for the most optimal schedule.</p>
       <h4>3.2.3 Playoffs</h4>
       <p>Playoffs will be played all in one day. Following the end of the regular season, the playoffs will take place on the weekend following the last scheduled week of play. The top 4 teams from the regular season will play throughout the day.</p>
       <h2>4. Match Layout and Rules</h2>
       <h3>4.1 Roster</h3>
       <p>At the start of the match, only players currently registered on the team are eligible to play.</p>
       <h3>4.2 Rule Enforcement</h3>
-      <p>All rules are open to an administrator’s interpretation, and they will have final say on any rulings. Rules may be changed by the Toronto Overwatch Beer League administrators at any time, but all teams will be made aware before doing so, along with a period for discussion with the team captains.</p>
+      <p>All rules are open to an administrator’s interpretation, and they will have final say on any rulings. Rules may be changed by the Toronto Overwatch Beer League administrators at any time, but all teams will be made aware before doing so.</p>
       <h4>4.2.1 Reporting</h4>
       <p>Team captains are required to report all applicable information to the match administrator. Team captains are responsible for reporting:</p>
       <ul>
@@ -108,18 +101,13 @@ permalink: /rules/
       <h3>4.3 Patch</h3>
       <p>All players must be playing on the most current patch available on the Blizzard live North America server.</p>
       <h3>4.4 Delay of Match Start</h3>
-      <p>If a team is shorthanded at the start of the match, the match can be delayed up to a maximum of 15 minutes to wait for the player to arrive. This is at the discretion of the match administrator after speaking with both team captains. If a team does not have a full 6 man starting roster by that time, the team short of players will forfeit the match.</p>
+      <p>If a team is shorthanded at the start of the match, the match can be delayed up to a maximum of 15 minutes to wait for the player to arrive. This is at the discretion of the match administrator after speaking with both team captains. If a team does not have a full 6 man starting roster by that time, the team short of players will forfeit the match, unless suitable arrangements have been made per the rules outlined in 2.1.3.</p>
       <h3>4.5 Team Positions</h3>
-      <p>The two teams will be organized into different sections of computer terminals in the Raiders eSports Centre. After the coin flip, the loser gets their choice of preferred terminal section, they may choose either the upper level or lower level computer banks. Once each team has been assigned their set of terminals, they must not enter the space of the opposing teams terminals while the match is ongoing.</p>
+      <p>The two teams will be organized into different sections of computer terminals in the The Hive Esports Centre. Team captains can discuss with one another and take their preferred computer stations, either upstairs or in "the pit".</p>
       <h2>5. Match Settings</h2>
-      <p>Matches will be set up one map at a time in a custom game format, once the coin toss has been decided and the teams have determined who has first map choice, the order of game lobby management is as follows:</p>
-      <ul>
-        <li>Coin toss winner sets up the lobby for the first match</li>
-        <li>Coin toss loser sets up the lobby for the second match</li>
-        <li>Loser of the second match sets up the last match</li>
-      </ul>
+      <p>Matches will be set up one map at a time in a custom game format. A league administrator can set up a lobby, or team captains can decide among themselves who will create the lobby. Matches will be set to competitive preset rules.</p>
       <h3>5.1.1 Game Invites</h3>
-      <p>Each team captain is responsible for inviting their team into the match. Once the lobby has been created the creator must invite the opposing team captain.</p>
+      <p>Each team captain is responsible for inviting their team into the match. Once the lobby has been created the creator must invite the opposing team captain. The creator of the game lobby can invite other players by searching for nearby players in the group up function, right clicking the appropriate players, and selecting "Invite to custom game".</p>
       <h3>5.1.2 Map Settings</h3>
       <p>All games will be created using the following map settings:</p>
       <ul>
