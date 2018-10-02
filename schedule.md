@@ -11,16 +11,16 @@ permalink: /schedule/
       <p>Here's the schedule:</p>
       <h3>Week 1: September 23rd</h3>
       <ul>
-        <li><strong>2pm</strong> Trash Pandamonium vs EggWoke</li>
-        <li><strong>4pm</strong> Teamy McTeamface vs Thought Patrol</li>
-        <li><strong>6pm</strong> Toronto Timmies vs Only 90s Kids</li>
-        <li><strong>8pm</strong> Moose Mafia vs Los Diablos</li>
+        <li><strong>2pm</strong> Trash Pandamonium 3-1 EggWoke</li>
+        <li><strong>4pm</strong> Teamy McTeamface 3-1 Thought Patrol</li>
+        <li><strong>6pm</strong> Toronto Timmies 1-3 Only 90s Kids</li>
+        <li><strong>8pm</strong> Moose Mafia 0-3 C9 Buns</li>
       </ul>
       <p><strong>Maps</strong>: Hanamura, Route 66, Hollywood, Nepal, Junkertown</p>
       
       <h3>Week 2: September 30th</h3>
       <ul>
-        <li><strong>2pm</strong> Only 90s Kids vs Los Diablos</li>
+        <li><strong>2pm</strong> Only 90s Kids vs C9 Buns</li>
         <li><strong>4pm</strong> Teamy McTeamface vs Trash Pandamonium</li>
         <li><strong>6pm</strong> EggWoke vs Thought Patrol</li>
         <li><strong>8pm</strong> Toronto Timmies vs Moose Mafia</li>
@@ -30,7 +30,7 @@ permalink: /schedule/
       <h3>Week 3: October 14th</h3>
       <ul>
         <li><strong>2pm</strong> Moose Mafia vs Teamy McTeamface</li>
-        <li><strong>4pm</strong> Thought Patrol vs Los Diablos</li>
+        <li><strong>4pm</strong> Thought Patrol vs C9 Buns</li>
         <li><strong>6pm</strong> Toronto Timmies vs Trash Pandamonium</li>
         <li><strong>8pm</strong> Eggwoke vs Only 90s Kids</li>
       </ul>
@@ -40,7 +40,7 @@ permalink: /schedule/
       <ul>
         <li><strong>2pm</strong> Thought Patrol vs Toronto Timmies</li>
         <li><strong>4pm</strong> Moose Mafia vs EggWoke</li>
-        <li><strong>6pm</strong> Los Diablos vs Trash Pandamonium</li>
+        <li><strong>6pm</strong> C9 Buns vs Trash Pandamonium</li>
         <li><strong>8pm</strong> Only 90s Kids vs Teamy McTeamface</li>
       </ul>
       <p><strong>Maps</strong>: Busan, Hanamura, Dorado, Eichenwalde, Junkertown</p>
@@ -48,7 +48,7 @@ permalink: /schedule/
       <h3>Week 5: November 11th</h3>
       <ul>
         <li><strong>2pm</strong> Moose Mafia vs Trash Pandamonium</li>
-        <li><strong>4pm</strong> Eggwoke vs Los Diablos</li>
+        <li><strong>4pm</strong> Eggwoke vs C9 Buns</li>
         <li><strong>6pm</strong> Only 90s Kids vs Thought Patrol</li>
         <li><strong>8pm</strong> Teamy McTeamface vs Toronto Timmies</li>
       </ul>
@@ -57,7 +57,7 @@ permalink: /schedule/
       <h3>Week 6: November 25th</h3>
       <ul>
         <li><strong>2pm</strong> Eggwoke vs Teamy McTeamface</li>
-        <li><strong>4pm</strong> Toronto Timmies vs Los Diablos</li>
+        <li><strong>4pm</strong> Toronto Timmies vs C9 Buns</li>
         <li><strong>6pm</strong> Moose Mafia vs Only 90s Kids</li>
         <li><strong>8pm</strong> Trash Pandamonium vs Thought Patrol</li>
       </ul>
