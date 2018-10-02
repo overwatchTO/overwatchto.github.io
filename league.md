@@ -52,7 +52,7 @@ permalink: /league/
       <h2>Can I use my own peripherals (e.g. mouse, keyboard)?</h2>
       <p>Yes, The Hive Esports allows players to bring their own peripherals to use on their machines.</p>
       <h2>How many teams are in the league?</h2>
-      <p>At this time, we are limiting the league to 6 teams in total for Season 1. In future seasons the league may expand, depending on demand.</p>
+      <p>There are 8 teams in Season 2. This number may change in future seasons, depending on demand.</p>
       <h2>How many players on a team?</h2>
       <p>Teams have a minimum of six players, and a maximum of twelve players.</p>
       <h2>I don't have a team. Can I still play?</h2>
@@ -60,7 +60,7 @@ permalink: /league/
       <h2>I'm not a very high rank. Can I still play?</h2>
       <p>Yes. There is no minimum entry rank to be eligible to play in the league. The intention of the league is for players to have fun and enjoy Overwatch as a team game, as well as socialize.</p>
       <h2>How much will it cost to play?</h2>
-      <p>The final cost per person is still being determined, but our aim is to keep the cost of playing as low as possible. The Overwatch Toronto Organization (the organizers of the Toronto Overwatch Beer League) and everyone else working on this are not doing it for profit. Team registration cost is $175 for Season 1, with the fee to be split amongst the individual players on the team.</p>
+      <p>Each team has a total fee of $175 to play the season. This cost is split up between the players as determined by the team captain. Individuals who have registered for the draft pay a $10 deposit to be eligible to be drafted, and this deposit is then counted towards the team fees of the team that drafts the player.</p>
       <h2>What is the registration fee for?</h2>
       <p>The registration fee is almost entirely to cover the cost of the facilities at The Hive Esports. Beyond that, there are also some small ancillary costs to cover, such as web hosting, etc.</p>
       <h2>Do I need to own a copy of Overwatch to play in the league?</h2>
