@@ -20,19 +20,19 @@ permalink: /schedule/
       
       <h3>Week 2: September 30th</h3>
       <ul>
-        <li><strong>2pm</strong> Only 90s Kids vs C9 Buns</li>
-        <li><strong>4pm</strong> Teamy McTeamface vs Trash Pandamonium</li>
-        <li><strong>6pm</strong> EggWoke vs Thought Patrol</li>
-        <li><strong>8pm</strong> Toronto Timmies vs Moose Mafia</li>
+        <li><strong>2pm</strong> Only 90s Kids 0-3 C9 Buns</li>
+        <li><strong>4pm</strong> Teamy McTeamface 0-3 Trash Pandamonium</li>
+        <li><strong>6pm</strong> EggWoke 3-0 Thought Patrol</li>
+        <li><strong>8pm</strong> Toronto Timmies 3-2 Moose Mafia</li>
       </ul>
       <p><strong>Maps</strong>: Dorado, Blizzard World, Oasis, Volskaya Industries, Watchpoint: Gibraltar</p>
       
       <h3>Week 3: October 14th</h3>
       <ul>
-        <li><strong>2pm</strong> Moose Mafia vs Teamy McTeamface</li>
-        <li><strong>4pm</strong> Thought Patrol vs C9 Buns</li>
-        <li><strong>6pm</strong> Toronto Timmies vs Trash Pandamonium</li>
-        <li><strong>8pm</strong> Eggwoke vs Only 90s Kids</li>
+        <li><strong>2pm</strong> Moose Mafia 0-3 Teamy McTeamface</li>
+        <li><strong>4pm</strong> Thought Patrol 0-3 C9 Buns</li>
+        <li><strong>6pm</strong> Toronto Timmies 2-3 Trash Pandamonium</li>
+        <li><strong>8pm</strong> Eggwoke 1-3 Only 90s Kids</li>
       </ul>
       <p><strong>Maps</strong>: Numbani, Lijiang Tower, Temple of Anubis, Rialto, Horizon Lunar Colony</p>
       
@@ -45,7 +45,7 @@ permalink: /schedule/
       </ul>
       <p><strong>Maps</strong>: Busan, Hanamura, Dorado, Eichenwalde, Junkertown</p>
       
-      <h3>Week 5: November 11th</h3>
+      <h3>Week 5: November 4th</h3>
       <ul>
         <li><strong>2pm</strong> Moose Mafia vs Trash Pandamonium</li>
         <li><strong>4pm</strong> Eggwoke vs C9 Buns</li>
@@ -54,7 +54,7 @@ permalink: /schedule/
       </ul>
       <p><strong>Maps</strong>: Temple of Anubis, Watchpoint: Gibraltar, King's Row, Nepal, Hanamura</p>
       
-      <h3>Week 6: November 25th</h3>
+      <h3>Week 6: November 11th</h3>
       <ul>
         <li><strong>2pm</strong> Eggwoke vs Teamy McTeamface</li>
         <li><strong>4pm</strong> Toronto Timmies vs C9 Buns</li>
