@@ -63,6 +63,15 @@ permalink: /schedule/
       </ul>
       <p><strong>Maps</strong>: Rialto, Eichenwalde, Ilios, Volskaya Industries, Temple of Anubis</p>
       
+      <h3>Week 7: November 18th</h3>
+      <ul>
+        <li><strong>2pm</strong> Thought Patrol vs Moose Mafia</li>
+        <li><strong>4pm</strong> Trash Pandamonium vs Only 90s Kids</li>
+        <li><strong>6pm</strong> C9 Buns vs Teamy McTeamface</li>
+        <li><strong>8pm</strong> Egg Woke vs Toronto Timmies</li>
+      </ul>
+      <p><strong>Maps</strong>: King's Row, Lijiang Tower, Horizon Lunar Colony, Route 66, Busan</p>      
+      
     </div>
   </div>
 </div>
