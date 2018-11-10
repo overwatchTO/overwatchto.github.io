@@ -20,6 +20,79 @@ permalink: /league/
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
+      <h1>Season 2 Standings</h1>
+      <table class="table">
+        <thead>
+          <th scope="col"></th>
+          <th scope="col">Team</th>
+          <th scope="col">Wins</th>
+          <th scope="col">Losses</th>
+          <th scope="col">Map Diff.</th>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>C9 Buns</td>
+            <td>5</td>
+            <td>0</td>
+            <td>14</td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>Trash Pandamonium</td>
+            <td>4</td>
+            <td>1</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td>Only 90s Kids</td>
+            <td>4</td>
+            <td>1</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <th scope="row">4</th>
+            <td>Eggwoke</td>
+            <td>2</td>
+            <td>3</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <th scope="row">5</th>
+            <td>Toronto Timmies</td>
+            <td>2</td>
+            <td>3</td>
+            <td>-1</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Teamy McTeamface</td>
+            <td>2</td>
+            <td>3</td>
+            <td>-3</td>
+          </tr>
+          <tr>
+            <th scope="row">7</th>
+            <td>Thought Patrol</td>
+            <td>1</td>
+            <td>4</td>
+            <td>-8</td>
+          </tr>
+          <tr>
+            <th scope="row">8</th>
+            <td>Moose Mafia</td>
+            <td>0</td>
+            <td>5</td>
+            <td>-13</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  
+  <div class="row justify-content-center page-section-no-line">
+    <div class="col-12 col-md-10 col-xl-8">
       <h1>Location</h1>
       <p>All of our matches take place on LAN at The Hive Esports. Talk strategy with your team, meet other Overwatch players, and enjoy some food and drink while socializing.</p>
       <div class="map-responsive">
