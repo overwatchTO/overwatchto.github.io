@@ -33,58 +33,58 @@ permalink: /league/
           <tr>
             <th scope="row">1</th>
             <td>C9 Buns</td>
-            <td>5</td>
+            <td>6</td>
             <td>0</td>
-            <td>14</td>
+            <td>17</td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>Trash Pandamonium</td>
-            <td>4</td>
+            <td>Only 90s Kids</td>
+            <td>5</td>
             <td>1</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <th scope="row">3</th>
-            <td>Only 90s Kids</td>
+            <td>Trash Pandamonium</td>
             <td>4</td>
-            <td>1</td>
-            <td>5</td>
+            <td>2</td>
+            <td>4</td>
           </tr>
           <tr>
             <th scope="row">4</th>
-            <td>Eggwoke</td>
-            <td>2</td>
-            <td>3</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <th scope="row">5</th>
-            <td>Toronto Timmies</td>
-            <td>2</td>
-            <td>3</td>
-            <td>-1</td>
-          </tr>
-          <tr>
-            <th scope="row">6</th>
             <td>Teamy McTeamface</td>
-            <td>2</td>
+            <td>3</td>
             <td>3</td>
             <td>-3</td>
           </tr>
           <tr>
+            <th scope="row">5</th>
+            <td>Eggwoke</td>
+            <td>2</td>
+            <td>4</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <th scope="row">6</th>
+            <td>Toronto Timmies</td>
+            <td>2</td>
+            <td>4</td>
+            <td>-4</td>
+          </tr>
+          <tr>
             <th scope="row">7</th>
             <td>Thought Patrol</td>
-            <td>1</td>
+            <td>2</td>
             <td>4</td>
-            <td>-8</td>
+            <td>-6</td>
           </tr>
           <tr>
             <th scope="row">8</th>
             <td>Moose Mafia</td>
             <td>0</td>
-            <td>5</td>
-            <td>-13</td>
+            <td>6</td>
+            <td>-15</td>
           </tr>
         </tbody>
       </table>
