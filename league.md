@@ -53,7 +53,7 @@ permalink: /league/
           </tr>
           <tr>
             <th scope="row">4</th>
-            <td>Eggwode</td>
+            <td>Eggwoke</td>
             <td>3</td>
             <td>4</td>
             <td>0</td>
