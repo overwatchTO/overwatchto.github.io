@@ -47,30 +47,40 @@ permalink: /schedule/
       
       <h3>Week 5: November 4th</h3>
       <ul>
-        <li><strong>2pm</strong> Moose Mafia vs Trash Pandamonium</li>
-        <li><strong>4pm</strong> Eggwoke vs C9 Buns</li>
-        <li><strong>6pm</strong> Only 90s Kids vs Thought Patrol</li>
-        <li><strong>8pm</strong> Teamy McTeamface vs Toronto Timmies</li>
+        <li><strong>2pm</strong> Moose Mafia 0-3 Trash Pandamonium</li>
+        <li><strong>4pm</strong> Eggwoke 1-3 C9 Buns</li>
+        <li><strong>6pm</strong> Only 90s Kids 3-1 Thought Patrol</li>
+        <li><strong>8pm</strong> Teamy McTeamface 0-3 Toronto Timmies</li>
       </ul>
       <p><strong>Maps</strong>: Temple of Anubis, Watchpoint: Gibraltar, King's Row, Nepal, Hanamura</p>
       
       <h3>Week 6: November 11th</h3>
       <ul>
-        <li><strong>2pm</strong> Eggwoke vs Teamy McTeamface</li>
-        <li><strong>4pm</strong> Toronto Timmies vs C9 Buns</li>
-        <li><strong>6pm</strong> Moose Mafia vs Only 90s Kids</li>
-        <li><strong>8pm</strong> Trash Pandamonium vs Thought Patrol</li>
+        <li><strong>2pm</strong> Eggwoke vs Teamy McTeamface (Eggwoke forfeit)</li>
+        <li><strong>4pm</strong> Toronto Timmies 0-3 C9 Buns</li>
+        <li><strong>6pm</strong> Moose Mafia 1-3 Only 90s Kids</li>
+        <li><strong>8pm</strong> Trash Pandamonium 1-3 Thought Patrol</li>
       </ul>
       <p><strong>Maps</strong>: Rialto, Eichenwalde, Ilios, Volskaya Industries, Temple of Anubis</p>
       
       <h3>Week 7: November 18th</h3>
       <ul>
-        <li><strong>2pm</strong> Thought Patrol vs Moose Mafia</li>
-        <li><strong>4pm</strong> Trash Pandamonium vs Only 90s Kids</li>
-        <li><strong>6pm</strong> C9 Buns vs Teamy McTeamface</li>
-        <li><strong>8pm</strong> Egg Woke vs Toronto Timmies</li>
+        <li><strong>2pm</strong> Thought Patrol 3-1 Moose Mafia</li>
+        <li><strong>4pm</strong> Trash Pandamonium 2-3 Only 90s Kids</li>
+        <li><strong>6pm</strong> C9 Buns 3-0 Teamy McTeamface</li>
+        <li><strong>8pm</strong> Egg Woke vs Toronto Timmies (Toronto Timmies forfeit)</li>
       </ul>
       <p><strong>Maps</strong>: King's Row, Lijiang Tower, Horizon Lunar Colony, Route 66, Busan</p>      
+      
+      <h3>Playoffs: November 25th</h3>
+      <ul>
+        <li><strong>2pm</strong> Only 90s Kids (2) vs Trash Pandamonium (3)</li>
+        <li><strong>4pm</strong> C9 Buns (1) vs Eggwoke (4)</li>
+        <li><strong>Finals</strong> Winner of Game 1 vs Winner of Game 2</li>
+        <li><strong>Consolation Finals</strong> Loser of Game 1 vs Loser of Game 2 (only to occur if both teams opt in)</li>
+      </ul>
+      <p><strong>Maps</strong>: Ilios, Numbani, Volskaya Industries, Junkertown, Oasis.</p>
+      <p>The map pool is played in reverse for the finals.</p>
       
     </div>
   </div>
