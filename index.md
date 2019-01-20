@@ -44,7 +44,7 @@ layout: default
     <div class="col-10 col-sm-8 col-md-4 mx-auto">
       <div class="feature">
         <div class="text-center">
-          <img class="feature-icon" src="{{ site.baseurl }}/images/hive_logo.jpg" alt="Raiders eSports Logo">
+          <img class="feature-icon" src="{{ site.baseurl }}/images/hive_logo.jpg" alt="Raiders eSports Logo" style="width:130px;">
         </div>
         <p class="text-center">Play on LAN at <a href="https://www.facebook.com/thehiveesports/">The Hive Esports</a>. Have fun and socialize.</p>
       </div>
