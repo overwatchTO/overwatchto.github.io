@@ -7,13 +7,11 @@ layout: default
       <h1>Toronto Overwatch Beer League</h1>
       <h4>Toronto's first social Overwatch LAN gaming league</h4>
       <div class="text-center" style="padding-top:3em;"><a href="{{ site.baseurl }}/join/" class="btn btn-primary primary-cta">Sign up for TOBL</a></div>
-	    <!--
-      <p class="text-center" style="font-size:80%;"><small>Season 2 registration now open!</small></p>
--->
+       <p class="text-center" style="font-size:80%;"><small>Season 3 registration now open!</small></p>
     </div>
     <div class="col-12 col-md-4">
       <div>
-        <img src="{{ site.baseurl }}/images/tobl_logo_v2.jpg" class="img-responsive banner-logo" alt="Toronto Overwatch Beer League logo">
+        <img src="{{ site.baseurl }}/images/tobl_logo_v2_fixed.png" class="img-responsive banner-logo" alt="Toronto Overwatch Beer League logo">
       </div>
     </div>
   </div>
@@ -46,7 +44,7 @@ layout: default
     <div class="col-10 col-sm-8 col-md-4 mx-auto">
       <div class="feature">
         <div class="text-center">
-          <img class="feature-icon" src="{{ site.baseurl }}/images/raiders_full_logo_white_stroke.png" alt="Raiders eSports Logo">
+          <img class="feature-icon" src="{{ site.baseurl }}/images/hive_logo.jpg" alt="Raiders eSports Logo">
         </div>
         <p class="text-center">Play on LAN at <a href="https://www.facebook.com/thehiveesports/">The Hive Esports</a>. Have fun and socialize.</p>
       </div>
