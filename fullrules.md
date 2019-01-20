@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Rules
-permalink: /rules/
+title: Full Rules
+permalink: /fullrules/
 ---
 
 
