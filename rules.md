@@ -20,7 +20,6 @@ permalink: /rules/
         <li>Be constructive! Everyone wants to win, and no one likes being tilted or frustrated, but try to remain constructive both in game and out. If you're not happy try to talk to league organizers about your concerns, and we'll work together to make things better.</li>
         <li>Don't talk smack! This is similar to Rule 1, but specifically don't talk about people behind their backs. Don't gossip, smack talk, or otherwise create a hostile environment for another player. Don't say anything you wouldn't say to the person's face (and again, refer to Rule 1).</li>
       </ol>
-      <p>The Toronto Overwatch Beer League is a locally based competition, where teams that are comprised of up to six (6) Players, and six (6) substitutes, compete as part of a team (“Team(s)”) to play the PC version of Overwatch in a LAN based setting exclusively at the The Hive Esports Centre venue. Teams are registered in advance and will add Players as needed to complete a roster. None of the Team members may be associated with more than one Team in the Toronto Overwatch Beer League.</p>
       <h1 class="text-center">Detailed Rules</h1>
       <p>For the full list of match rules, you can click <a href="{{ site.baseurl }}/fullrules/">here</a>.</p>
     </div>
