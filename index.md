@@ -11,7 +11,7 @@ layout: default
     </div>
     <div class="col-12 col-md-4">
       <div>
-        <img src="{{ site.baseurl }}/images/tobl_logo_v2_fixed.png" class="img-responsive banner-logo" alt="Toronto Overwatch Beer League logo">
+        <img src="{{ site.baseurl }}/images/reinhardtcheersv2.png" class="img-responsive banner-logo" alt="Toronto Overwatch Beer League logo">
       </div>
     </div>
   </div>
