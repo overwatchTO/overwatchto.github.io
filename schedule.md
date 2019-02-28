@@ -7,7 +7,7 @@ permalink: /schedule/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Schedule</h1>
-      <p>Season 3 of the Toronto Overwatch Beer League runs from March 3rd through May 5th, 2019. See below for the matchday schedule.</p>
+      <p>Season 3 of the Toronto Overwatch Beer League runs from March 3rd through May 5th, 2019.</p>
       <h3>Week 1: March 3rd</h3>
       <ul>
         <li><strong>2pm</strong> Scott's Tots vs. Ultimate Symphony</li>
