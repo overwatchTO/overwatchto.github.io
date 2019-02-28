@@ -15,6 +15,7 @@ permalink: /schedule/
         <li><strong>6pm</strong> Toronto Definite vs. Trash Pandamonium</li>
         <li><strong>8pm</strong> 6ix Dreamz vs. Doki Doki Overwatch Club</li>
       </ul>
+      <p><strong>Maps:</strong> Route 66, Eichenwalde, Busan, Temple of Anubis, Rialto</p>
       <h3>Week 2: March 10th</h3>
       <ul>
         <li><strong>2pm</strong> Trash Pandamonium vs. Doki Doki Overwatch Club</li>
@@ -22,6 +23,7 @@ permalink: /schedule/
         <li><strong>6pm</strong> Good Gaming Chair vs. 6ix Dreamz</li>
         <li><strong>8pm</strong> Team Typhoon vs. Ultimate Symphony</li>
       </ul>
+      <p><strong>Maps:</strong> Numbani, Lijiang Tower, Paris, Dorado, Nepal</p>
       <h3>Week 3: March 24th</h3>
       <ul>
         <li><strong>2pm</strong> 6ix Dreamz vs. Team Typhoon</li>
@@ -29,6 +31,7 @@ permalink: /schedule/
         <li><strong>6pm</strong> Toronto Definite vs. Good Gaming Chair</li>
         <li><strong>8pm</strong> Ultimate Symphony vs. Trash Pandamonium</li>
       </ul>
+      <p><strong>Maps:</strong> Oasis, Hanamura, Watchpoint: Gibraltar, Hollywood, Junkertown</p>
       <h3>Week 4: March 31st</h3>
       <ul>
         <li><strong>2pm</strong> Trash Pandamonium vs. Good Gaming Chair</li>
@@ -36,6 +39,7 @@ permalink: /schedule/
         <li><strong>6pm</strong> Scott's Tots vs. Team Typhoon</li>
         <li><strong>8pm</strong> Doki Doki Overwatch Club vs. Toronto Definite</li>
       </ul>
+      <p><strong>Maps:</strong> Volskaya Industries, Dorado, King's Row, Ilios, Route 66</p>
       <h3>Week 5: April 7th</h3>
       <ul>
         <li><strong>2pm</strong> Toronto Definite vs. Ultimate Symphony</li>
@@ -43,6 +47,7 @@ permalink: /schedule/
         <li><strong>6pm</strong> Team Typhoon vs. Trash Pandamonium</li>
         <li><strong>8pm</strong> Scott's Tots vs. 6ix Dreamz</li>
       </ul>
+      <p><strong>Maps:</strong> Watchpoint: Gibraltar, Blizzard World, Nepal, Horizon Lunar Colony, Busan</p>
       <h3>Week 6: April 14th</h3>
       <ul>
         <li><strong>2pm</strong> Scott's Tots vs. Trash Pandamonium</li>
@@ -50,6 +55,7 @@ permalink: /schedule/
         <li><strong>6pm</strong> Ultimate Symphony vs. Good Gaming Chair</li>
         <li><strong>8pm</strong> 6ix Dreamz vs. Toronto Definite</li>
       </ul>
+      <p><strong>Maps:</strong> Hollywood, Ilios, Hanamura, Rialto, Lijiang Tower</p>
       <h3>Week 7: April 28th</h3>
       <ul>
         <li><strong>2pm</strong> Team Typhoon vs. Toronto Definite</li>
@@ -57,6 +63,7 @@ permalink: /schedule/
         <li><strong>6pm</strong> Doki Doki Overwatch Club vs. Ultimate Symphony</li>
         <li><strong>8pm</strong> Scott's Tots vs. Good Gaming Chair</li>
       </ul>
+      <p><strong>Maps:</strong> Oasis, Temple of Anubis, Junkertown, Numbani, Ilios</p>
       <h3>Week 8: May 5th</h3>
       <p>League finals. Details to be announced.</p>
     </div>
