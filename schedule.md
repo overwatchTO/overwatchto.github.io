@@ -10,10 +10,10 @@ permalink: /schedule/
       <p>Season 3 of the Toronto Overwatch Beer League runs from March 3rd through May 5th, 2019.</p>
       <h3>Week 1: March 3rd</h3>
       <ul>
-        <li><strong>2pm</strong> Scott's Tots vs. Ultimate Symphony</li>
-        <li><strong>4pm</strong> Good Gaming Chair vs. Team Typhoon</li>
-        <li><strong>6pm</strong> Toronto Definite vs. Trash Pandamonium</li>
-        <li><strong>8pm</strong> 6ix Dreamz vs. Doki Doki Overwatch Club</li>
+        <li><strong>2pm</strong> Scott's Tots 0 - 3 Ultimate Symphony</li>
+        <li><strong>4pm</strong> Good Gaming Chair 0 - 3 Team Typhoon</li>
+        <li><strong>6pm</strong> Toronto Definite 3 - 0 Trash Pandamonium</li>
+        <li><strong>8pm</strong> 6ix Dreamz 0 - 3 Doki Doki Overwatch Club</li>
       </ul>
       <p><strong>Maps:</strong> Route 66, Eichenwalde, Busan, Temple of Anubis, Rialto</p>
       <h3>Week 2: March 10th</h3>
