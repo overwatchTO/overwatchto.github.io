@@ -56,7 +56,7 @@ permalink: /league/
           <tr>
             <th scope="row">5</th>
             <td>Good Gaming Chair</td>
-            <td>1 -1</td>
+            <td>1 - 1</td>
             <td>-1</td>
           </tr>
           <tr>
