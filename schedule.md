@@ -18,10 +18,10 @@ permalink: /schedule/
       <p><strong>Maps:</strong> Route 66, Eichenwalde, Busan, Temple of Anubis, Rialto</p>
       <h3>Week 2: March 10th</h3>
       <ul>
-        <li><strong>2pm</strong> Trash Pandamonium vs. Doki Doki Overwatch Club</li>
-        <li><strong>4pm</strong> Scott's Tots vs. Toronto Definite</li>
-        <li><strong>6pm</strong> Good Gaming Chair vs. 6ix Dreamz</li>
-        <li><strong>8pm</strong> Team Typhoon vs. Ultimate Symphony</li>
+        <li><strong>2pm</strong> Trash Pandamonium 1-3 Doki Doki Overwatch Club</li>
+        <li><strong>4pm</strong> Scott's Tots 3-1 Toronto Definite</li>
+        <li><strong>6pm</strong> Good Gaming Chair 3-1 6ix Dreamz</li>
+        <li><strong>8pm</strong> Team Typhoon 2-1 Ultimate Symphony</li>
       </ul>
       <p><strong>Maps:</strong> Numbani, Lijiang Tower, Paris, Dorado, Nepal</p>
       <h3>Week 3: March 24th</h3>
