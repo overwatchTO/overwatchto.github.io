@@ -31,51 +31,51 @@ permalink: /league/
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>Doki Doki Overwatch Club</td>
-            <td>2 - 0</td>
-            <td>+5</td>
+            <td>Team Typhoon</td>
+            <td>3 - 0</td>
+            <td>+7</td>
           </tr>
           <tr>
             <th scope="row">2</th>
-            <td>Team Typhoon</td>
-            <td>2 - 0</td>
+            <td>Doki Doki Overwatch Club</td>
+            <td>2 - 1</td>
             <td>+4</td>
           </tr>
           <tr>
             <th scope="row">3</th>
             <td>Ultimate Symphony</td>
-            <td>1 - 1</td>
-            <td>+2</td>
+            <td>2 - 1</td>
+            <td>+3</td>
           </tr>
           <tr>
             <th scope="row">4</th>
-            <td>Toronto Definite</td>
-            <td>1 - 1</td>
+            <td>Good Gaming Chair</td>
+            <td>2 - 1</td>
             <td>+1</td>
           </tr>
           <tr>
             <th scope="row">5</th>
-            <td>Good Gaming Chair</td>
-            <td>1 - 1</td>
-            <td>-1</td>
-          </tr>
-          <tr>
-            <th scope="row">5</th>
             <td>Scott's Tots</td>
-            <td>1 - 1</td>
-            <td>-1</td>
+            <td>2 - 1</td>
+            <td>0</td>
           </tr>
           <tr>
-            <th scope="row">7</th>
-            <td>6ix Dreamz</td>
-            <td>0 - 2</td>
-            <td>-5</td>
+            <th scope="row">6</th>
+            <td>Toronto Definite</td>
+            <td>1 - 2</td>
+            <td>-1</td>
           </tr>
           <tr>
             <th scope="row">7</th>
             <td>Trash Pandamonium</td>
-            <td>0 - 2</td>
-            <td>-5</td>
+            <td>0 - 3</td>
+            <td>-6</td>
+          </tr>
+          <tr>
+            <th scope="row">8</th>
+            <td>6ix Dreamz</td>
+            <td>0 - 3</td>
+            <td>-8</td>
           </tr> 
         </tbody>
       </table>
