@@ -26,10 +26,10 @@ permalink: /schedule/
       <p><strong>Maps:</strong> Numbani, Lijiang Tower, Paris, Dorado, Nepal</p>
       <h3>Week 3: March 24th</h3>
       <ul>
-        <li><strong>2pm</strong> 6ix Dreamz vs. Team Typhoon</li>
-        <li><strong>4pm</strong> Scott's Tots vs. Doki Doki Overwatch Club</li>
-        <li><strong>6pm</strong> Toronto Definite vs. Good Gaming Chair</li>
-        <li><strong>8pm</strong> Ultimate Symphony vs. Trash Pandamonium</li>
+        <li><strong>2pm</strong> 6ix Dreamz 0 - 3 Team Typhoon</li>
+        <li><strong>4pm</strong> Scott's Tots 3 - 2 Doki Doki Overwatch Club</li>
+        <li><strong>6pm</strong> Toronto Definite 1 - 3 Good Gaming Chair</li>
+        <li><strong>8pm</strong> Ultimate Symphony 2 - 1 Trash Pandamonium</li>
       </ul>
       <p><strong>Maps:</strong> Oasis, Hanamura, Watchpoint: Gibraltar, Hollywood, Junkertown</p>
       <h3>Week 4: March 31st</h3>
