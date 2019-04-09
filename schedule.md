@@ -42,10 +42,10 @@ permalink: /schedule/
       <p><strong>Maps:</strong> Volskaya Industries, Dorado, King's Row, Ilios, Route 66</p>
       <h3>Week 5: April 7th</h3>
       <ul>
-        <li><strong>2pm</strong> Toronto Definite vs. Ultimate Symphony</li>
-        <li><strong>4pm</strong> Good Gaming Chair vs. Doki Doki Overwatch Club</li>
-        <li><strong>6pm</strong> Team Typhoon vs. Trash Pandamonium</li>
-        <li><strong>8pm</strong> Scott's Tots vs. 6ix Dreamz</li>
+        <li><strong>2pm</strong> Toronto Definite 3 - 1 Ultimate Symphony</li>
+        <li><strong>4pm</strong> Good Gaming Chair 2 - 3 Doki Doki Overwatch Club</li>
+        <li><strong>6pm</strong> Team Typhoon 1 - 3 Trash Pandamonium</li>
+        <li><strong>8pm</strong> Scott's Tots 3 - 0 6ix Dreamz</li>
       </ul>
       <p><strong>Maps:</strong> Watchpoint: Gibraltar, Blizzard World, Nepal, Horizon Lunar Colony, Busan</p>
       <h3>Week 6: April 14th</h3>
