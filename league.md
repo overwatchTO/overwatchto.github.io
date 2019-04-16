@@ -31,51 +31,51 @@ permalink: /league/
         <tbody>
           <tr>
             <th scope="row">1</th>
-            <td>Scott's Tots</td>
-            <td>4 - 1</td>
-            <td>+6</td>
-          </tr>
-          <tr>
-            <th scope="row">2</th>
             <td>Ultimate Symphony</td>
-            <td>3 - 2</td>
-            <td>+4</td>
+            <td>4 - 2</td>
+            <td>+7</td>
           </tr>
           <tr>
-            <th scope="row">2</th>
+            <th scope="row">1</th>
             <td>Doki Doki Overwatch Club</td>
-            <td>3 - 2</td>
-            <td>+4</td>
+            <td>4 - 2</td>
+            <td>+7</td>
           </tr>
           <tr>
-            <th scope="row">4</th>
-            <td>Team Typhoon</td>
-            <td>3 - 2</td>
-            <td>+2</td>
+            <th scope="row">3</th>
+            <td>Scott's Tots</td>
+            <td>4 - 2</td>
+            <td>+4</td>
           </tr>
           <tr>
             <th scope="row">4</th>
             <td>Toronto Definite</td>
-            <td>3 - 2</td>
-            <td>+2</td>
+            <td>3 - 3</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <th scope="row">5</th>
+            <td>Team Typhoon</td>
+            <td>3 - 3</td>
+            <td>-1</td>
           </tr>
           <tr>
             <th scope="row">6</th>
             <td>Good Gaming Chair</td>
-            <td>3 - 2</td>
-            <td>+1</td>
+            <td>3 - 3</td>
+            <td>-2</td>
           </tr>
           <tr>
             <th scope="row">7</th>
             <td>Trash Pandamonium</td>
-            <td>1 - 4</td>
-            <td>-5</td>
+            <td>2 - 4</td>
+            <td>-3</td>
           </tr>
           <tr>
             <th scope="row">8</th>
             <td>6ix Dreamz</td>
-            <td>0 - 5</td>
-            <td>-14</td>
+            <td>1 - 5</td>
+            <td>-12</td>
           </tr> 
         </tbody>
       </table>
