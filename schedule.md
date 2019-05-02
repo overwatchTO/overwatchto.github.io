@@ -67,9 +67,9 @@ permalink: /schedule/
       <h3>Week 8: May 5th</h3>
       <p><strong>League playoffs.</strong></p>
       <ul>
-        <li><strong>2pm</strong> Doki Doki Overwatch Club (1) vs. Toronto Definite (4)</li>
-        <li><strong>4pm</strong> Scott's Tots (2) vs. Ultimate Symphony (3)</li>
-        <li><strong>6pm</strong> Winner of Match 1 vs. Winner of Match 2</li>
+        <li><strong>2pm Semi-final</strong> Doki Doki Overwatch Club (1) vs. Toronto Definite (4)</li>
+        <li><strong>4pm Semi-final</strong> Scott's Tots (2) vs. Ultimate Symphony (3)</li>
+        <li><strong>6pm Grand Final</strong> Winner of Match 1 vs. Winner of Match 2</li>
       </ul>
       <p><strong>Maps:</strong> Paris, Dorado, Eichenwald, Busan, Route 66</p>
     </div>
