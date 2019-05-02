@@ -71,7 +71,7 @@ permalink: /schedule/
         <li><strong>4pm</strong> Scott's Tots (2) vs. Ultimate Symphony (3)</li>
         <li><strong>6pm</strong> Winner of Match 1 vs. Winner of Match 2</li>
       </ul>
-      <p><strong>Maps:</strong> Paris, Dorado, Eichenwald, Busan, Route 66
+      <p><strong>Maps:</strong> Paris, Dorado, Eichenwald, Busan, Route 66</p>
     </div>
   </div>
 </div>
