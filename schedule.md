@@ -7,71 +7,8 @@ permalink: /schedule/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Schedule</h1>
-      <p>Season 3 of the Toronto Overwatch Beer League runs from March 3rd through May 5th, 2019.</p>
-      <h3>Week 1: March 3rd</h3>
-      <ul>
-        <li><strong>2pm</strong> Scott's Tots 0 - 3 Ultimate Symphony</li>
-        <li><strong>4pm</strong> Good Gaming Chair 0 - 3 Team Typhoon</li>
-        <li><strong>6pm</strong> Toronto Definite 3 - 0 Trash Pandamonium</li>
-        <li><strong>8pm</strong> 6ix Dreamz 0 - 3 Doki Doki Overwatch Club</li>
-      </ul>
-      <p><strong>Maps:</strong> Route 66, Eichenwalde, Busan, Temple of Anubis, Rialto</p>
-      <h3>Week 2: March 10th</h3>
-      <ul>
-        <li><strong>2pm</strong> Trash Pandamonium 1 - 3 Doki Doki Overwatch Club</li>
-        <li><strong>4pm</strong> Scott's Tots 3 - 1 Toronto Definite</li>
-        <li><strong>6pm</strong> Good Gaming Chair 3 - 1 6ix Dreamz</li>
-        <li><strong>8pm</strong> Team Typhoon 2 - 1 Ultimate Symphony</li>
-      </ul>
-      <p><strong>Maps:</strong> Numbani, Lijiang Tower, Paris, Dorado, Nepal</p>
-      <h3>Week 3: March 24th</h3>
-      <ul>
-        <li><strong>2pm</strong> 6ix Dreamz 0 - 3 Team Typhoon</li>
-        <li><strong>4pm</strong> Scott's Tots 3 - 2 Doki Doki Overwatch Club</li>
-        <li><strong>6pm</strong> Toronto Definite 1 - 3 Good Gaming Chair</li>
-        <li><strong>8pm</strong> Ultimate Symphony 2 - 1 Trash Pandamonium</li>
-      </ul>
-      <p><strong>Maps:</strong> Oasis, Hanamura, Watchpoint: Gibraltar, Hollywood, Junkertown</p>
-      <h3>Week 4: March 31st</h3>
-      <ul>
-        <li><strong>2pm</strong> Trash Pandamonium 2 - 3 Good Gaming Chair</li>
-        <li><strong>4pm</strong> Ultimate Symphony 3 - 0 6ix Dreamz</li>
-        <li><strong>6pm</strong> Scott's Tots 3 - 0 Team Typhoon</li>
-        <li><strong>8pm</strong> Doki Doki Overwatch Club 2 - 3 Toronto Definite</li>
-      </ul>
-      <p><strong>Maps:</strong> Volskaya Industries, Dorado, King's Row, Ilios, Route 66</p>
-      <h3>Week 5: April 7th</h3>
-      <ul>
-        <li><strong>2pm</strong> Toronto Definite 3 - 1 Ultimate Symphony</li>
-        <li><strong>4pm</strong> Good Gaming Chair 2 - 3 Doki Doki Overwatch Club</li>
-        <li><strong>6pm</strong> Team Typhoon 1 - 3 Trash Pandamonium</li>
-        <li><strong>8pm</strong> Scott's Tots 3 - 0 6ix Dreamz</li>
-      </ul>
-      <p><strong>Maps:</strong> Watchpoint: Gibraltar, Blizzard World, Nepal, Horizon Lunar Colony, Busan</p>
-      <h3>Week 6: April 14th</h3>
-      <ul>
-        <li><strong>2pm</strong> Scott's Tots 1 - 3 Trash Pandamonium</li>
-        <li><strong>4pm</strong> Doki Doki Overwatch Club 3 - 0 Team Typhoon</li>
-        <li><strong>6pm</strong> Ultimate Symphony 3 - 0 Good Gaming Chair</li>
-        <li><strong>8pm</strong> 6ix Dreamz 2 - 0 Toronto Definite</li>
-      </ul>
-      <p><strong>Maps:</strong> Hollywood, Ilios, Hanamura, Rialto, Lijiang Tower</p>
-      <h3>Week 7: April 28th</h3>
-      <ul>
-        <li><strong>2pm</strong> Team Typhoon 2 - 3 Toronto Definite</li>
-        <li><strong>4pm</strong> Trash Pandamonium 1 - 3 6ix Dreamz</li>
-        <li><strong>6pm</strong> Doki Doki Overwatch Club 3 - 0 Ultimate Symphony</li>
-        <li><strong>8pm</strong> Scott's Tots 2 - 0 Good Gaming Chair</li>
-      </ul>
-      <p><strong>Maps:</strong> Oasis, Temple of Anubis, Junkertown, Numbani, Ilios</p>
-      <h3>Week 8: May 5th</h3>
-      <p><strong>League playoffs.</strong></p>
-      <ul>
-        <li><strong>2pm Semi-final</strong> Doki Doki Overwatch Club (1) vs. Toronto Definite (4)</li>
-        <li><strong>4pm Semi-final</strong> Scott's Tots (2) vs. Ultimate Symphony (3)</li>
-        <li><strong>6pm Grand Final</strong> Winner of Match 1 vs. Winner of Match 2</li>
-      </ul>
-      <p><strong>Maps:</strong> Paris, Dorado, Eichenwald, Busan, Route 66</p>
+      <p>Season 4 of the Toronto Overwatch Beer League is starting soon!</p>
+      <p><a href="{{ site.baseurl }}">Registration</a> is open now, ending September 20th, 2019. The draft will be on September 22nd.</p>
     </div>
   </div>
 </div>
