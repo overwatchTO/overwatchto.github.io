@@ -18,7 +18,7 @@ permalink: /join/
       <p>If you have at least two players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 10 players.</p>
       <p>Team registration costs <strong>$225</strong> per team. Team payment is due before the first day of matches.</p>
       <p>Teams will play 7 matches in Season 4, plus a playoff day for the top four teams.</p>
-      <p><strong>Registration for Season 4 is now closed.</p>
+	    <p><strong>Registration for Season 4 is now closed.</strong></p>
     </div>
   </div>
   
