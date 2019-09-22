@@ -7,7 +7,7 @@ layout: default
       <h1>Toronto Overwatch Beer League</h1>
       <h4>Toronto's first social Overwatch LAN gaming league</h4>
 <!--       <div class="text-center" style="padding-top:3em;"><a href="{{ site.baseurl }}/join/" class="btn btn-primary primary-cta">Sign up for TOBL</a></div> -->
-       <p class="text-center" style="font-size:80%;"><small>Registration for Season 4 is open! Sign up <a href="{{ site.baseurl }}/join">here</a></small></p>
+       <p class="text-center" style="font-size:80%;"><small>Registration for Season 4 is closed.</small></p>
     </div>
     <div class="col-12 col-md-4">
       <div>
