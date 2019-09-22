@@ -28,7 +28,7 @@ permalink: /join/
       <p>You can sign up as an individual and get drafted to a team on our Draft Night before the season begins.</p>
       <p>Individual players don't pay registration costs unless they're drafted by a team, at which point their cost is a share of the team's registration fee.</p>
       <p>However, all players will be required to pay a <strong>$10 registration deposit</strong> to be eligible to participate in the player draft. After the player is drafted, the $10 goes towards that team's registration fee. Player deposits are refundable in the event that the player is not drafted to a team. Payment can be made either via Paypal to <a href="mailto:overwatchtoronto.org@gmail.com">overwatchtoronto.org@gmail.com</a>, or in person at the Preseason Showcase event and Draft Night.</p>
-      <p><strong>Registration for Season 4 is now closed.</p>
+	    <p><strong>Registration for Season 4 is now closed.</strong></p>
     </div>
   </div>
   
