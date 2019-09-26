@@ -10,8 +10,11 @@ permalink: /schedule/
       
       <h2>October 6th, 2019</h2>
       <p><strong>Maps:</strong> Dorado, Nepal, King's Row, Paris, Havana</p>
-      <h4>Match 1: Benchwarmers vs. Team Tanktop</h4>
-      <p>Login time @ 1:30pm, Match start @ 1:45pm</p>
+      <p><strong>Match 1:</strong> Benchwarmers vs. Team Tanktop</p>
+      <ul>
+        <li>Login Time: 1:30pm</li>
+        <li>Match Start: 1:45pm</li>
+      </ul>
       
     </div>
   </div>
