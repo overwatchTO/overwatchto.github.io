@@ -10,10 +10,10 @@ permalink: /schedule/
       <h2>October 6th, 2019</h2>
       <p><strong>Maps:</strong> Dorado, Nepal, King's Row, Paris, Havana</p>
       <ul>
-        <li><strong>1:45pm (login @ 1:30pm) - </strong> Benchwarmers vs. Team Tanktop</li>
-        <li><strong>3:50pm (login @ 3:35pm) - </strong> Gamehive vs. Onibaku</li>
-        <li><strong>5:55pm (login @ 5:40pm) - </strong> Channel 4 News Team vs. Doki Doki Overwatch Club</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Bongo Battleseals vs. Threat Level: Midnight</li>
+        <li>Benchwarmers 2 - <strong>3 Team Tanktop</strong></li>
+        <li>Gamehive 0 - <strong>3 Onibaku</strong></li>
+        <li>Channel 4 News Team 0 - <strong>3 Doki Doki Overwatch Club</strong></li>
+        <li>Bongo Battleseals 0 - <strong>3 Threat Level: Midnight</strong></li>
       </ul>
       <h2>October 20th, 2019</h2>
       <p><strong>Maps:</strong> Ilios, Eichenwalde, Temple of Anubis, Gibraltar, Lijiang Tower</p>
