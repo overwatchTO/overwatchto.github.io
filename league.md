@@ -23,7 +23,7 @@ permalink: /league/
       <h1>Standings</h1>
       <div class="table-responsive">
         <table class="table table-striped">
-          <thead>
+          <thead class="thead-dark">
             <tr>
               <th scope="col">#</th>
               <th scope="col">Team</th>
