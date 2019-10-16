@@ -20,6 +20,88 @@ permalink: /league/
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
+      <h1>Standings</h1>
+      <div class="table-responsive">
+        <table class="table-striped">
+          <tr>
+            <th>Rank</th>
+            <th>Team</th>
+            <th>W</th>
+            <th>L</th>
+            <th>D</th>
+            <th>Diff</th>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Doki Doki Overwatch Club</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>+3</td>
+          </tr>
+          <tr>
+            <td>-</td>
+            <td>Onibaku</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>+3</td>
+          </tr>
+          <tr>
+            <td>-</td>
+            <td>Threat Level: Midnight</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>+3</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Team Tanktop</td>
+            <td>1</td>
+            <td>0</td>
+            <td>0</td>
+            <td>+2</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Benchwarmers</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td>-2</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Bongo Battleseals</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td>-3</td>
+          </tr>
+          <tr>
+            <td>-</td>
+            <td>Channel 4 News Team</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td>-3</td>
+          </tr>
+          <tr>
+            <td>-</td>
+            <td>Gamehive</td>
+            <td>0</td>
+            <td>1</td>
+            <td>0</td>
+            <td>-3</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row justify-content-center page-section-no-line">
+    <div class="col-12 col-md-10 col-xl-8">
       <h1>Location</h1>
       <p>All of our matches take place on LAN at The Hive Esports. Talk strategy with your team, meet other Overwatch players, and enjoy some food and drink while socializing.</p>
       <div class="map-responsive">
