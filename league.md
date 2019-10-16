@@ -25,12 +25,12 @@ permalink: /league/
         <table class="table table-striped">
           <thead class="thead-dark">
             <tr>
-              <th scope="col">#</th>
-              <th scope="col">Team</th>
-              <th scope="col">W</th>
-              <th scope="col">L</th>
-              <th scope="col">D</th>
-              <th scope="col">Diff</th>
+              <th scope="col"><strong>#</strong></th>
+              <th scope="col"><strong>Team</strong></th>
+              <th scope="col"><strong>W</strong></th>
+              <th scope="col"><strong>L</strong></th>
+              <th scope="col"><strong>D</strong></th>
+              <th scope="col"><strong>Diff</strong></th>
             </tr>
           </thead>
           <tbody>
