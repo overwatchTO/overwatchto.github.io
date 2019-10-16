@@ -23,78 +23,82 @@ permalink: /league/
       <h1>Standings</h1>
       <div class="table-responsive">
         <table class="table-striped">
-          <tr>
-            <th>Rank</th>
-            <th>Team</th>
-            <th>W</th>
-            <th>L</th>
-            <th>D</th>
-            <th>Diff</th>
-          </tr>
-          <tr>
-            <td>1</td>
-            <td>Doki Doki Overwatch Club</td>
-            <td>1</td>
-            <td>0</td>
-            <td>0</td>
-            <td>+3</td>
-          </tr>
-          <tr>
-            <td>-</td>
-            <td>Onibaku</td>
-            <td>1</td>
-            <td>0</td>
-            <td>0</td>
-            <td>+3</td>
-          </tr>
-          <tr>
-            <td>-</td>
-            <td>Threat Level: Midnight</td>
-            <td>1</td>
-            <td>0</td>
-            <td>0</td>
-            <td>+3</td>
-          </tr>
-          <tr>
-            <td>4</td>
-            <td>Team Tanktop</td>
-            <td>1</td>
-            <td>0</td>
-            <td>0</td>
-            <td>+2</td>
-          </tr>
-          <tr>
-            <td>5</td>
-            <td>Benchwarmers</td>
-            <td>0</td>
-            <td>1</td>
-            <td>0</td>
-            <td>-2</td>
-          </tr>
-          <tr>
-            <td>6</td>
-            <td>Bongo Battleseals</td>
-            <td>0</td>
-            <td>1</td>
-            <td>0</td>
-            <td>-3</td>
-          </tr>
-          <tr>
-            <td>-</td>
-            <td>Channel 4 News Team</td>
-            <td>0</td>
-            <td>1</td>
-            <td>0</td>
-            <td>-3</td>
-          </tr>
-          <tr>
-            <td>-</td>
-            <td>Gamehive</td>
-            <td>0</td>
-            <td>1</td>
-            <td>0</td>
-            <td>-3</td>
-          </tr>
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Team</th>
+              <th scope="col">W</th>
+              <th scope="col">L</th>
+              <th scope="col">D</th>
+              <th scope="col">Diff</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Doki Doki Overwatch Club</td>
+              <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+3</td>
+            </tr>
+            <tr>
+              <th scope="row">-</th>
+              <td>Onibaku</td>
+              <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+3</td>
+            </tr>
+            <tr>
+              <th scope="row">-</th>
+              <td>Threat Level: Midnight</td>
+              <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+3</td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>Team Tanktop</td>
+              <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+2</td>
+            </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td>Benchwarmers</td>
+              <td>0</td>
+              <td>1</td>
+              <td>0</td>
+              <td>-2</td>
+            </tr>
+            <tr>
+              <th scope="row">6</th>
+              <td>Bongo Battleseals</td>
+              <td>0</td>
+              <td>1</td>
+              <td>0</td>
+              <td>-3</td>
+            </tr>
+            <tr>
+              <th scope="row">-</th>
+              <td>Channel 4 News Team</td>
+              <td>0</td>
+              <td>1</td>
+              <td>0</td>
+              <td>-3</td>
+            </tr>
+            <tr>
+              <th scope="row">-</th>
+              <td>Gamehive</td>
+              <td>0</td>
+              <td>1</td>
+              <td>0</td>
+              <td>-3</td>
+            </tr>
+          </tbody>
         </table>
       </div>
     </div>
