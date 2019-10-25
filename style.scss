@@ -133,7 +133,7 @@ img {
 }
 
 .banner {
-  background-color:$blue;	
+  background-color:$logoOrange;
   padding-bottom:5em;
   padding-top:3.6em;
   
@@ -237,7 +237,7 @@ img {
 .wrapper-masthead {
   //margin-bottom: 2.5em;
   padding-bottom:1.1em;
-  background: $blue;
+  background: $logoOrange;
 }
 
 .masthead {
@@ -291,7 +291,7 @@ img {
   line-height: 150%;
 	
   a:hover {
-    color: $orange;
+    color: $logoGrey;
     text-decoration: none;
   }
 }
@@ -319,7 +319,7 @@ nav {
     text-decoration:none;
 
     &:hover {
-      color:$orange;
+      color:$logoGrey;
       text-decoration:none;
     }
 	  
@@ -334,7 +334,7 @@ nav {
   text-decoration: none;
   padding: 1em 2em;
   color: $white !important;
-  background-color: $blueDarker !important;
+  background-color: $logoOrange !important;
   cursor: pointer;
 	
   &:hover { 
@@ -548,9 +548,9 @@ footer {
   color: $white;
   font-size: 16px;
   a {
-    color: $white;
+    color: $logoGrey;
     &:hover {
-      color: $gray;
+      color: $logoOrange;
     }
   }
 }

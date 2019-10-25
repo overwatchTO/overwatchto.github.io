@@ -1,4 +1,6 @@
 ---
+twitchId: 497296200
+youtubeId: Hsnjbxa8cfk
 layout: default
 title: League
 permalink: /league/
@@ -17,6 +19,21 @@ permalink: /league/
       <p><strong>Registration for Season 4 is closed.</strong></p>
     </div>
   </div>
+  
+<!-- Sample Game of the week content -->   
+<!--   <div class="container">
+         <div class="row page-section">
+           <div class="col-12">
+             <h1 class="text-center">Game of the week</h1>
+             <h6 class="text-center">Onibaku vs Doki Doki Overwatch Club</h6>
+           </div>
+         </div>
+         <div class="text-center">
+        {% include youtubePlayer.html id=page.youtubeId %}
+        {% include twitchPlayer.html id=page.twitchId %}
+         </div>
+         <br>
+    </div>  -->
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">

@@ -1,5 +1,4 @@
 ---
-youtubeId: Hsnjbxa8cfk
 layout: default
 ---
 <div class="container-fluid">
@@ -16,18 +15,6 @@ layout: default
       </div>
     </div>
   </div>
-</div>
-
-<div class="container">
-      <div class="row page-section">
-        <div class="col-12">
-          <h1 class="text-center">Game of the week</h1>
-        </div>
-      </div>
-      <div class="text-center">
-          {% include youtubePlayer.html id=page.youtubeId %}
-      </div>
-      <br>
 </div>
 
 <div class="container">
