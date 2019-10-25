@@ -67,7 +67,7 @@ permalink: /league/
               <td>0</td>
             </tr>
             <tr>
-              <th scope="row">4</th>
+              <th scope="row">-</th>
               <td>Bongo Battleseals</td>
               <td>1</td>
               <td>1</td>
@@ -75,7 +75,7 @@ permalink: /league/
               <td>0</td>
             </tr>
             <tr>
-              <th scope="row">5</th>
+              <th scope="row">6</th>
               <td>Channel 4 News Team</td>
               <td>1</td>
               <td>1</td>
@@ -83,7 +83,7 @@ permalink: /league/
               <td>-1</td>
             </tr>
             <tr>
-              <th scope="row">6</th>
+              <th scope="row">7</th>
               <td>Benchwarmers</td>
               <td>0</td>
               <td>2</td>
@@ -91,7 +91,7 @@ permalink: /league/
               <td>-5</td>
             </tr>
             <tr>
-              <th scope="row">6</th>
+              <th scope="row">-</th>
               <td>Gamehive</td>
               <td>0</td>
               <td>2</td>
