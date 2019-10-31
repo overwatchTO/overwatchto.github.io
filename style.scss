@@ -133,7 +133,7 @@ img {
 }
 
 .banner {
-  background-color:$logoOrange;
+  background-color:$backgroundGray;
   padding-bottom:5em;
   padding-top:3.6em;
   
@@ -162,7 +162,8 @@ img {
   //text-align:center;
   display:block;
   margin:0 auto;
-  margin-top: 4em;
+  margin-top: 2em;
+  width: 200px;
 }
 
 .contact-email {
@@ -178,7 +179,7 @@ img {
     color: $darkGray;
   }
   a:hover {
-    color: $gray;
+    color: $logoOrange;
   }
 }
 
@@ -187,7 +188,7 @@ img {
     color: $white;
   }
   a:hover {
-    color: $lightGray;
+    color: $logoOrange;
   }
 }
 
@@ -237,7 +238,7 @@ img {
 .wrapper-masthead {
   //margin-bottom: 2.5em;
   padding-bottom:1.1em;
-  background: $logoOrange;
+  background: $backgroundGray;
 }
 
 .masthead {
@@ -291,7 +292,7 @@ img {
   line-height: 150%;
 	
   a:hover {
-    color: $logoGrey;
+    color: $logoOrange;
     text-decoration: none;
   }
 }
@@ -319,7 +320,7 @@ nav {
     text-decoration:none;
 
     &:hover {
-      color:$logoGrey;
+      color:$logoOrange;
       text-decoration:none;
     }
 	  
@@ -334,7 +335,7 @@ nav {
   text-decoration: none;
   padding: 1em 2em;
   color: $white !important;
-  background-color: $logoOrange !important;
+  background-color: $backgroundGray !important;
   cursor: pointer;
 	
   &:hover { 
@@ -420,7 +421,7 @@ nav {
   margin:0 auto;
   margin-top: 2em;
   margin-bottom: 2em;
-  border:1px solid #eee;
+  width: 200px;
 }
 
 .map-responsive{
@@ -513,7 +514,7 @@ nav {
 }
 
 input[type="submit"] {
-  background: $orange;
+  background: $backgroundGray;
   border-width: 0;
   color: #fff;
   cursor: pointer;
