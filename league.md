@@ -100,7 +100,7 @@ permalink: /league/
               <td>-2</td>
             </tr>
             <tr>
-              <th scope="row">6</th>
+              <th scope="row">7</th>
               <td>Benchwarmers</td>
               <td>1</td>
               <td>2</td>
@@ -108,7 +108,7 @@ permalink: /league/
               <td>-3</td>
             </tr>
             <tr>
-              <th scope="row">7</th>
+              <th scope="row">8</th>
               <td>Gamehive</td>
               <td>0</td>
               <td>3</td>
