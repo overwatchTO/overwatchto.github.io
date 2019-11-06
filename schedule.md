@@ -63,6 +63,22 @@ permalink: /schedule/
         <li><strong>5:55pm (login @ 5:40pm) - </strong> Gamehive vs. Bongo Battleseals</li>
         <li><strong>8:00pm (login @ 7:45pm) - </strong> Benchwarmers vs. Channel 4 News Team</li>
       </ul>
+      <h2>December 8th, 2019</h2>
+      <p><strong>Maps:</strong> TBD</p>
+      <ul>
+          <li><strong>3:55PM (login @ 3:40PM) - </strong> 1st Place Team vs 4th Place Team</li>
+          <li><strong>6:00PM (login @ 5:45PM) - </strong> 2nd Place Team vs 3rd Place Team</li>
+      </ul>
+      <h2>December 15th, 2019</h2>
+      <p><strong>Maps:</strong> TBD</p>
+      <p>Consolation Final</p>
+      <ul>
+      <li><strong>3:55PM (login @ 3:40PM) - </strong> Loser of Playoff Game 1 vs Loser of Playoff Game 2</li>
+      </ul>
+      <p>Final</p>
+      <ul>
+      <li><strong>6:00PM (login @ 5:45PM) - </strong> Winner of Playoff Game 1 vs Winner of Playoff Game 2</li>
+      </ul>
     </div>
   </div>
 </div>
