@@ -42,10 +42,10 @@ permalink: /schedule/
       <h2>November 17th, 2019</h2>
       <p><strong>Maps:</strong> Junkertown, Busan, Hollywood, Horizon Lunar Colony, Route 66</p>
       <ul>
-        <li><strong>1:45pm (login @ 1:30pm) - </strong> Doki Doki Overwatch Club vs. Bongo Battleseals</li>
-        <li><strong>3:50pm (login @ 3:35pm) - </strong> Threat Level: Midnight vs. Channel 4 News Team</li>
-        <li><strong>5:55pm (login @ 5:40pm) - </strong> Gamehive vs. Team Tanktop</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Benchwarmers vs. Onibaku</li>
+        <li><strong> Doki Doki Overwatch Club 3</strong> - 2 Bongo Battleseals</li>
+        <li>Threat Level: Midnight 2 - <strong>3 Channel 4 News Team</strong></li>
+        <li><strong>Gamehive 3</strong> - 1 Team Tanktop</li>
+        <li>Benchwarmers 0 - <strong>3 Onibaku</strong></li>
       </ul>
       <h2>November 24th, 2019</h2>
       <p><strong>Maps:</strong> Nepal, Eichenwalde, Paris, Havana, Oasis</p>
