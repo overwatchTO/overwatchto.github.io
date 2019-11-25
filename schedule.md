@@ -50,10 +50,10 @@ permalink: /schedule/
       <h2>November 24th, 2019</h2>
       <p><strong>Maps:</strong> Nepal, Eichenwalde, Paris, Havana, Oasis</p>
       <ul>
-        <li><strong>1:45pm (login @ 1:30pm) - </strong> Team Tanktop vs. Onibaku</li>
-        <li><strong>3:50pm (login @ 3:35pm) - </strong> Benchwarmers vs. Gamehive</li>
-        <li><strong>5:55pm (login @ 5:40pm) - </strong> Channel 4 News Team vs. Bongo Battleseals</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Doki Doki Overwatch Club vs. Threat Level: Midnight</li>
+        <li>Team Tanktop 1 - <strong>3 Onibaku</strong></li>
+        <li> Benchwarmers 0 - <strong>3 Gamehive</strong></li>
+        <li><strong> Channel 4 News Team 3</strong> - 2 Bongo Battleseals</li>
+        <li><strong>Doki Doki Overwatch Club 3</strong> - 2 Threat Level: Midnight</li>
       </ul>
       <h2>December 1st, 2019</h2>
       <p><strong>Maps:</strong> King's Row, Temple of Anubis, Dorado, Ilios, Rialto</p>

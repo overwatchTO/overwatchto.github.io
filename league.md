@@ -54,66 +54,66 @@ permalink: /league/
             <tr>
               <th scope="row">1</th>
               <td>Doki Doki Overwatch Club</td>
-              <td>4</td>
+              <td>5</td>
+              <td>1</td>
+              <td>0</td>
+              <td>+9</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Onibaku</td>
+              <td>5</td>
               <td>1</td>
               <td>0</td>
               <td>+8</td>
             </tr>
             <tr>
-              <th scope="row">2</th>
-              <td>Onibaku</td>
-              <td>4</td>
-              <td>1</td>
-              <td>0</td>
-              <td>+6</td>
-            </tr>
-            <tr>
                <th scope="row">3</th>
                <td>Channel 4 News Team</td>
-               <td>4</td>
+               <td>5</td>
                <td>1</td>
                <td>0</td>
-               <td>+4</td>
+               <td>+5</td>
             </tr>
             <tr>
                <th scope="row">4</th>
                <td>Team Tanktop</td>
                <td>3</td>
-               <td>2</td>
+               <td>3</td>
                <td>0</td>
-               <td>+3</td>
+               <td>+1</td>
             </tr>
             <tr>
               <th scope="row">5</th>
               <td>Threat Level: Midnight</td>
               <td>2</td>
-              <td>3</td>
-              <td>0</td>
-              <td>-2</td>
-            </tr>
-            <tr>
-              <th scope="row">6</th>
-              <td>Bongo Battleseals</td>
-              <td>1</td>
               <td>4</td>
               <td>0</td>
-              <td>-4</td>
+              <td>-3</td>
             </tr>
-             <tr>
-               <th scope="row">7</th>
+            <tr>
+               <th scope="row">6</th>
                <td>Gamehive</td>
-               <td>1</td>
+               <td>2</td>
                <td>4</td>
                <td>0</td>
-               <td>-7</td>
+               <td>-4</td>
              </tr>
+             <tr>
+                <th scope="row">7</th>
+                <td>Bongo Battleseals</td>
+                <td>1</td>
+                <td>5</td>
+                <td>0</td>
+                <td>-5</td>
+            </tr>
             <tr>
               <th scope="row">8</th>
               <td>Benchwarmers</td>
               <td>1</td>
-              <td>4</td>
+              <td>5</td>
               <td>0</td>
-              <td>-8</td>
+              <td>-11</td>
             </tr>
           </tbody>
         </table>
