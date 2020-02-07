@@ -156,11 +156,11 @@ permalink: /league/
       <h2>Can I use my own peripherals (e.g. mouse, keyboard)?</h2>
       <p>Yes, The Hive Esports allows players to bring their own peripherals to use on their machines.</p>
       <h2>How many teams are in the league?</h2>
-      <p>There will be 8 teams in Season 4. This number may change in future seasons, depending on demand.</p>
+      <p>There will be 8 teams in Season 5. This number may change in future seasons, depending on demand.</p>
       <h2>How many players on a team?</h2>
       <p>Teams have a minimum of eight players, and a maximum of ten players.</p>
       <h2>I don't have a team. Can I still play?</h2>
-      <p>Yes! Before Season 4 begins, we'll be opening individual registration. We'll then have a "Player Draft" night where all players who signed up as individuals will be eligible to be drafted. Players and teams can come to The Hive Esports and meet each other, the teams can get a sense of the players that are available in the draft, and a live draft will take place later in the evening. More details about the Draft will be posted soon.</p>
+      <p>Yes! Before Season 5 begins, we'll be opening individual registration. We'll then have a "Player Draft" night where all players who signed up as individuals will be eligible to be drafted. Players and teams can come to The Hive Esports and meet each other, the teams can get a sense of the players that are available in the draft, and a live draft will take place later in the evening. More details about the Draft will be posted soon.</p>
       <h2>I'm not a very high rank. Can I still play?</h2>
       <p>Yes. There is no minimum entry rank to be eligible to play in the league. The intention of the league is for players to have fun and enjoy Overwatch as a team game, as well as socialize.</p>
       <h2>How much will it cost to play?</h2>

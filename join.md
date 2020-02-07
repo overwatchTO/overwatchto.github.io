@@ -15,9 +15,9 @@ permalink: /join/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h2>Register a Team</h2>
-      <p>If you have at least two players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 10 players.</p>
+      <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 4 players.</p>
       <p>Team registration costs <strong>$225</strong> per team. Team payment is due before the first day of matches.</p>
-      <p>Teams will play 7 matches in Season 4, plus a playoff day for the top four teams.</p>
+      <p>Teams will play 7 matches in Season 5, plus a playoff day for the top four teams.</p>
       <h2><p style="text-align:center"><a href="https://share.hsforms.com/1ZvgVzd3VQESO5fCEa0oN4w36mrm">Sign up as a team here!</a></p></h2>
 	    <!-- <p><strong>Registration for Season 5 is now closed.</strong></p> -->
     </div>
