@@ -18,8 +18,7 @@ permalink: /join/
       <p>If you have at least three players, you can register a team. The rest of your roster will be filled out on Draft Night from the pool of individual signups. The maximum team size is 4 players.</p>
       <p>Team registration costs <strong>$225</strong> per team. Team payment is due before the first day of matches.</p>
       <p>Teams will play 7 regular season matches in Season 5, plus a series of playoff days where any team can fight to take top prize.</p>
-      <h2><p style="text-align:center"><a href="https://share.hsforms.com/1ZvgVzd3VQESO5fCEa0oN4w36mrm">Sign up as a team here!</a></p></h2>
-	    <!-- <p><strong>Registration for Season 5 is now closed.</strong></p> -->
+	    <p><strong>Team Registration has reached capacity for Season 5 of the Toronto Overwatch Beer League. If you would still like to participate in the league, feel free to sign up as an individual player below.</strong></p>
     </div>
   </div>
   
