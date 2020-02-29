@@ -6,8 +6,8 @@ layout: default
     <div class="col-12 col-md-8">
       <h1>Toronto Overwatch Beer League</h1>
       <h4>Toronto's first social Overwatch LAN gaming league</h4>
-      <div class="text-center" style="padding-top:3em;"><a href="{{ site.baseurl }}/join/" class="btn btn-primary primary-cta">Sign up for TOBL</a></div>
-           <!-- <p class="text-center" style="font-size:80%;"><small>Registration for Season 4 is closed.</small></p> -->
+      <!-- <div class="text-center" style="padding-top:3em;"><a href="{{ site.baseurl }}/join/" class="btn btn-primary primary-cta">Sign up for TOBL</a></div> -->
+      <!-- <p class="text-center" style="font-size:80%;"><small>Registration for Season 5 is closed.</small></p> -->
     </div>
     <div class="col-12 col-md-4">
       <div>
@@ -58,8 +58,8 @@ layout: default
       <div class="col-10 col-md-8 col-lg-6">
         <div class="mailing-list-panel">
           <h1>Stay notified</h1>
-          <p>Individual registration is now open! Sign up <a href="http://overwatchtoronto.org/join/" style="color:white">here</a> or join our mailing list for future beer league updates.</p>
-          <!--<p>Individual registration opens soon. Sign up for our mailing list and you'll be the first to know.</p>-->
+          <!-- <p>Individual registration is now open! Sign up <a href="http://overwatchtoronto.org/join/" style="color:white">here</a> or join our mailing list for future beer league updates.</p> -->
+          <p>Registration opens soon. Sign up for our mailing list and you'll be the first to know.</p>
           <!-- Begin MailChimp Signup Form -->
           <style type="text/css">
 	          #mc_embed_signup{/*background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;*/ width:100%;}
