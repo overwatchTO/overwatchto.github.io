@@ -56,7 +56,7 @@ permalink: /schedule/
         <li><strong>8:00pm (login @ 7:45pm) - </strong> Fewbisoft vs. Game Hive</li>
       </ul>
       <h2>May 10th, 2020</h2>
-      <p><strong>Maps:</strong> King's Row, Temple of Anubis, Dorado, Ilios, Rialto</p>
+      <p><strong>Maps:</strong> Nepal, Route 66, Temple of Anubis, Hollywood, Ilios</p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Stacy's Moms vs. Nerf Mei</li>
         <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Game Hive</li>
