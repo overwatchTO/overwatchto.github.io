@@ -7,79 +7,79 @@ permalink: /schedule/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Season 5 Schedule</h1>
-      <h2>Coming soon ... </h2>
-      <h1 class="text-center">Season 4 Schedule</h1>
-      <h2>October 6th, 2019</h2>
-      <p><strong>Maps:</strong> Dorado, Nepal, King's Row, Paris, Havana</p>
+      <h2>March 15th, 2020</h2>
+      <p><strong>Maps:</strong> Lijiang Tower, King's Row, Volskaya Industries, Junkertown, Busan</p>
       <ul>
-        <li>Benchwarmers 2 - <strong>3 Team Tanktop</strong></li>
-        <li>Gamehive 0 - <strong>3 Onibaku</strong></li>
-        <li>Channel 4 News Team 0 - <strong>3 Doki Doki Overwatch Club</strong></li>
-        <li>Bongo Battleseals 0 - <strong>3 Threat Level: Midnight</strong></li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> Cronchers of Catan vs. Game Hive</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Everything Hurts</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> Onibaku vs. Stacy's Moms</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> Fewbisoft vs. Nerf Mei</li>
       </ul>
-      <h2>October 20th, 2019</h2>
-      <p><strong>Maps:</strong> Ilios, Eichenwalde, Temple of Anubis, Gibraltar, Lijiang Tower</p>
+      <h2>March 22nd, 2020</h2>
+      <p><strong>Maps:</strong> Dorado, Oasis, Hollywood, Temple of Anubis, Watchpoint: Gilbraltar</p>
       <ul>
-        <li>Threat Level: Midnight 0 - <strong>3 Team Tanktop</strong></li>
-        <li><strong>Bongo Battleseals 3</strong> - 0 Benchwarmers</li>
-        <li><strong>Onibaku 3</strong> - 2 Doki Doki Overwatch Club</li>
-        <li><strong>Channel 4 News Team 3</strong> - 1 Gamehive</li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> Fewbisoft vs. Everything Hurts</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> Stacy's Moms vs. Game Hive</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> Cronchers of Catan vs. Nerf Mei</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> Onibaku vs. Finer Things Club</li>
       </ul>
-      <h2>October 27th, 2019</h2>
-      <p><strong>Maps:</strong> Numbani, Hanamura, Route 66, Oasis, Junkertown</p>
+      <h2>March 29th, 2020</h2>
+      <p><strong>Maps:</strong> Eichenwalde, Horizon Lunar Colony, Nepal, Numbani, Route 66</p>
       <ul>
-        <li><strong>Onibaku 3 </strong> - 1 Bongo Battleseals</li>
-        <li>Team Tanktop 2 - <strong>3 Channel 4 News Team</strong></li>
-        <li><strong>Benchwarmers 3</strong> - 1 Threat Level: Midnight</li>
-        <li>Gamehive 0 - <strong>3 Doki Doki Overwatch Club</strong></li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> Onibaku vs. Game Hive</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> Nerf Mei vs. Everything Hurts</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> Finer Things Club vs. Fewbisoft</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> Cronchers of Catan vs. Stacy's Moms</li>
       </ul>      
-      <h2>November 3rd, 2019</h2>
-      <p><strong>Maps:</strong> Volskaya, Rialto, Lijiang Tower, Blizzard World, Nepal</p>
+      <h2>April 5th, 2020</h2>
+      <p><strong>Maps:</strong> Ilios, Havana, Hanamura, King's Row, Lijiang Tower</p>
       <ul>
-        <li><strong>Threat Level: Midnight 3</strong> - 2 Gamehive</li>
-        <li><strong>Doki Doki Overwatch Club 3</strong> - 1 Benchwarmers</li>
-        <li><strong>Team Tanktop 3</strong> - 2 Bongo Battleseals</li>
-        <li>Onibaku 0 - <strong>3 Channel 4 News Team</strong></li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> Fewbisoft vs. Stacy's Moms</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Cronchers of Catan</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> Nerf Mei vs. Onibaku</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> Everything Hurts vs. Game Hive</li>
       </ul>      
-      <h2>November 17th, 2019</h2>
-      <p><strong>Maps:</strong> Junkertown, Busan, Hollywood, Horizon Lunar Colony, Route 66</p>
+      <h2>April 26th, 2020</h2>
+      <p><strong>Maps:</strong> Rialto, Blizzard World, Busan, Paris, Dorado</p>
       <ul>
-        <li><strong> Doki Doki Overwatch Club 3</strong> - 2 Bongo Battleseals</li>
-        <li>Threat Level: Midnight 2 - <strong>3 Channel 4 News Team</strong></li>
-        <li><strong>Gamehive 3</strong> - 1 Team Tanktop</li>
-        <li>Benchwarmers 0 - <strong>3 Onibaku</strong></li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> Everything Hurts vs. Onibaku</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> Game Hive vs. Nerf Mei</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> Fewbisoft vs. Cronchers of Catan</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> Finer Things Club vs. Stacy's Moms</li>
       </ul>
-      <h2>November 24th, 2019</h2>
-      <p><strong>Maps:</strong> Nepal, Eichenwalde, Paris, Havana, Oasis</p>
+      <h2>May 3rd, 2020</h2>
+      <p><strong>Maps:</strong> Numbani, Volskaya Industries, Watchpoint: Gilbraltar, Eichenwalde, Oasis</p>
       <ul>
-        <li>Team Tanktop 1 - <strong>3 Onibaku</strong></li>
-        <li> Benchwarmers 0 - <strong>3 Gamehive</strong></li>
-        <li><strong> Channel 4 News Team 3</strong> - 2 Bongo Battleseals</li>
-        <li><strong>Doki Doki Overwatch Club 3</strong> - 2 Threat Level: Midnight</li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> Finer Things Club vs. Nerf Mei</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> Cronchers of Catan vs. Onibaku</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> Stacy's Moms vs. Everything Hurts</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> Fewbisoft vs. Game Hive</li>
       </ul>
-      <h2>December 1st, 2019</h2>
+      <h2>May 10th, 2020</h2>
       <p><strong>Maps:</strong> King's Row, Temple of Anubis, Dorado, Ilios, Rialto</p>
       <ul>
-        <li><strong> Onibaku 3 </strong>- 1 Threat Level: Midnight</li>
-        <li>Team Tanktop 2 - <strong>3 Doki Doki Overwatch Club</strong></li>
-        <li><strong>Gamehive 3 </strong>- 2 Bongo Battleseals</li>
-        <li><strong>Benchwarmers 2 </strong>- 0 Channel 4 News Team</li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> Stacy's Moms vs. Nerf Mei</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Game Hive</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> Fewbisoft vs. Onibaku</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> Cronchers of Catan vs. Everything Hurts</li>
       </ul>
-      <h2>December 8th, 2019</h2>
-      <p><strong>Maps:</strong> Gibraltar, Lijiang, Numbani, Hanamura, Oasis, Hollywood, Junkertown</p>
+      <h2>May 24th, 2020</h2>
+      <p>Playoffs Week 1</p>
+      <p><strong>Maps:</strong> TBA </p>
       <ul>
-          <li>Team Tanktop 3 - <strong>4 Onibaku</strong></li>
-          <li><strong>Doki Doki Overwatch Club 4</strong> - 1 Channel 4 News Team</li>
+          <li><strong>TBA</strong></li>
       </ul>
-      <h2>December 15th, 2019</h2>
-      <p><strong>Maps:</strong> Busan, Horizon Lunar Colony, Blizzard World, Route 66, Volskaya, Ilios, Havana</p>
-      <p>Consolation Final</p>
+      <h2>May 31st, 2020</h2>
+      <p>Playoffs Week 2</p>
+      <p><strong>Maps:</strong> TBA </p>
       <ul>
-      <li><strong>3:00PM (login @ 2:45PM) - </strong> Team Tanktop vs Channel 4 News Team</li>
+          <li><strong>TBA</strong></li>
       </ul>
-      <p>Final</p>
-      <ul>
-      <li><strong>5:00PM (login @ 4:45PM) - </strong> Onibaku vs Doki Doki Overwatch Club</li>
+       <h2>June 7th, 2020</h2>
+       <p>Finals</p>
+      <p><strong>Maps:</strong> TBA </p>
+       <ul>
+          <li><strong>TBA</strong></li>
       </ul>
     </div>
   </div>

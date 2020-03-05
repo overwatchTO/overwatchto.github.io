@@ -37,7 +37,7 @@ permalink: /league/
   
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
-      <h1>Standings Season 4</h1>
+      <h1>Standings Season 5</h1>
       <div class="table-responsive">
         <table class="table table-striped">
           <thead>
@@ -54,66 +54,66 @@ permalink: /league/
             <tr>
               <th scope="row">1</th>
               <td>Onibaku</td>
-              <td>6</td>
-              <td>1</td>
               <td>0</td>
-              <td>+10</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+0</td>
             </tr>
             <tr>
               <th scope="row">2</th>
-              <td>Doki Doki Overwatch Club</td>
-              <td>6</td>
-              <td>1</td>
+              <td>Cronchers of Catan</td>
               <td>0</td>
-              <td>+10</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+0</td>
             </tr>
             <tr>
                <th scope="row">3</th>
-               <td>Channel 4 News Team</td>
-               <td>5</td>
-               <td>2</td>
+               <td>Game Hive</td>
                <td>0</td>
-               <td>+3</td>
+               <td>0</td>
+               <td>0</td>
+               <td>+0</td>
             </tr>
             <tr>
                <th scope="row">4</th>
-               <td>Team Tanktop</td>
-               <td>3</td>
-               <td>4</td>
+               <td>Finer Things Club</td>
                <td>0</td>
                <td>0</td>
+               <td>0</td>
+               <td>+0</td>
             </tr>
             <tr>
               <th scope="row">5</th>
-              <td>Gamehive</td>
-              <td>3</td>
-              <td>4</td>
+              <td>Everything Hurts</td>
               <td>0</td>
-              <td>-3</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+0</td>
             </tr>
             <tr>
                <th scope="row">6</th>
-               <td>Threat Level: Midnight</td>
-               <td>2</td>
-               <td>5</td>
+               <td>Stacy's Moms</td>
                <td>0</td>
-               <td>-5</td>
+               <td>0</td>
+               <td>0</td>
+               <td>+0</td>
              </tr>
              <tr>
                 <th scope="row">7</th>
-                <td>Benchwarmers</td>
-                <td>2</td>
-                <td>5</td>
+                <td>Fewbisoft</td>
                 <td>0</td>
-                <td>-9</td>
+                <td>0</td>
+                <td>0</td>
+                <td>+0</td>
             </tr>
             <tr>
               <th scope="row">8</th>
-              <td>Bongo Battleseals</td>
-              <td>1</td>
-              <td>6</td>
+              <td>Nerf Mei</td>
               <td>0</td>
-              <td>-4</td>
+              <td>0</td>
+              <td>0</td>
+              <td>+0</td>
             </tr>
           </tbody>
         </table>
