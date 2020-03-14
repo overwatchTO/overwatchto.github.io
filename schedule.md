@@ -7,7 +7,7 @@ permalink: /schedule/
   <div class="row justify-content-center page-section-no-line">
     <div class="col-12 col-md-10 col-xl-8">
       <h1 class="text-center">Season 5 Schedule</h1>
-      <h2>March 15th, 2020</h2>
+      <h2>March 15th, 2020</h2><h3>Remote Play is permitted due to public health concerns</h3>
       <p><strong>Maps:</strong> Lijiang Tower, King's Row, Volskaya Industries, Junkertown, Busan</p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Cronchers of Catan vs. Game Hive</li>
@@ -15,7 +15,7 @@ permalink: /schedule/
         <li><strong>6:00pm (login @ 5:45pm) - </strong> Onibaku vs. Stacy's Moms</li>
         <li><strong>8:00pm (login @ 7:45pm) - </strong> Fewbisoft vs. Nerf Mei</li>
       </ul>
-      <h2>March 22nd, 2020</h2>
+      <h2>March 29th, 2020</h2><h3>Remote Play Only</h3>
       <p><strong>Maps:</strong> Dorado, Oasis, Hollywood, Temple of Anubis, Watchpoint: Gilbraltar</p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Fewbisoft vs. Everything Hurts</li>
@@ -23,7 +23,7 @@ permalink: /schedule/
         <li><strong>6:00pm (login @ 5:45pm) - </strong> Cronchers of Catan vs. Nerf Mei</li>
         <li><strong>8:00pm (login @ 7:45pm) - </strong> Onibaku vs. Finer Things Club</li>
       </ul>
-      <h2>March 29th, 2020</h2>
+      <h2>April 5th, 2020</h2>
       <p><strong>Maps:</strong> Eichenwalde, Horizon Lunar Colony, Nepal, Numbani, Route 66</p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Onibaku vs. Game Hive</li>
@@ -31,7 +31,7 @@ permalink: /schedule/
         <li><strong>6:00pm (login @ 5:45pm) - </strong> Finer Things Club vs. Fewbisoft</li>
         <li><strong>8:00pm (login @ 7:45pm) - </strong> Cronchers of Catan vs. Stacy's Moms</li>
       </ul>      
-      <h2>April 5th, 2020</h2>
+      <h2>April 19th, 2020</h2>
       <p><strong>Maps:</strong> Ilios, Havana, Hanamura, King's Row, Lijiang Tower</p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Fewbisoft vs. Stacy's Moms</li>
