@@ -53,67 +53,67 @@ permalink: /league/
           <tbody>
             <tr>
               <th scope="row">1</th>
-              <td>Onibaku</td>
+              <td>Everything Hurts</td>
+              <td>3</td>
               <td>0</td>
               <td>0</td>
-              <td>0</td>
-              <td>+0</td>
+              <td>+3</td>
             </tr>
             <tr>
               <th scope="row">2</th>
-              <td>Cronchers of Catan</td>
+              <td>Onibaku</td>
+              <td>3</td>
+              <td>1</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>+0</td>
+              <td>+2</td>
             </tr>
             <tr>
-               <th scope="row">3</th>
+               <th scope="row">2</th>
                <td>Game Hive</td>
+               <td>3</td>
+               <td>1</td>
                <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>+0</td>
+               <td>+2</td>
             </tr>
             <tr>
-               <th scope="row">4</th>
-               <td>Finer Things Club</td>
+               <th scope="row">2</th>
+               <td>Fewbisoft</td>
+               <td>3</td>
+               <td>1</td>
                <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>+0</td>
+               <td>+2</td>
             </tr>
             <tr>
               <th scope="row">5</th>
-              <td>Everything Hurts</td>
+              <td>Cronchers of Catan</td>
+              <td>1</td>
+              <td>3</td>
               <td>0</td>
-              <td>0</td>
-              <td>0</td>
-              <td>+0</td>
+              <td>-2</td>
             </tr>
             <tr>
-               <th scope="row">6</th>
+               <th scope="row">5</th>
                <td>Stacy's Moms</td>
+               <td>1</td>
+               <td>3</td>
                <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>+0</td>
+               <td>-2</td>
              </tr>
              <tr>
-                <th scope="row">7</th>
-                <td>Fewbisoft</td>
+                <th scope="row">5</th>
+                <td>Nerf Mei</td>
+                <td>1</td>
+                <td>3</td>
                 <td>0</td>
-                <td>0</td>
-                <td>0</td>
-                <td>+0</td>
+                <td>-2</td>
             </tr>
             <tr>
-              <th scope="row">8</th>
-              <td>Nerf Mei</td>
+              <th scope="row">7</th>
+              <td>Finer Things Club</td>
               <td>0</td>
+              <td>3</td>
               <td>0</td>
-              <td>0</td>
-              <td>+0</td>
+              <td>-3</td>
             </tr>
           </tbody>
         </table>

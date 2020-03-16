@@ -10,10 +10,10 @@ permalink: /schedule/
       <h2>March 15th, 2020</h2><h3>Remote Play is permitted due to public health concerns</h3>
       <p><strong>Maps:</strong> Lijiang Tower, King's Row, Volskaya Industries, Junkertown, Busan</p>
       <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> Cronchers of Catan vs. Game Hive</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Everything Hurts</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> Onibaku vs. Stacy's Moms</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Fewbisoft vs. Nerf Mei</li>
+        <li><strong>Game Hive 3</strong> - 1 Cronchers of Catan</li>
+        <li><strong>Everything Hurts 3</strong> - 0 Finer Things Club</li>
+        <li><strong>Onibaku 3</strong> - 1 Stacy's Moms</li>
+        <li><strong>Fewbisoft 3</strong> - 1 Nerf Mei</li>
       </ul>
       <h2>March 29th, 2020</h2><h3>Remote Play Only</h3>
       <p><strong>Maps:</strong> Dorado, Oasis, Hollywood, Temple of Anubis, Watchpoint: Gilbraltar</p>
