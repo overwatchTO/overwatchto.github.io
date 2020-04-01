@@ -53,67 +53,67 @@ permalink: /league/
           <tbody>
             <tr>
               <th scope="row">1</th>
-              <td>Everything Hurts</td>
-              <td>3</td>
+              <td>Game Hive</td>
+              <td>6</td>
+              <td>1</td>
               <td>0</td>
-              <td>0</td>
-              <td>+3</td>
+              <td>+5</td>
             </tr>
             <tr>
               <th scope="row">2</th>
-              <td>Onibaku</td>
-              <td>3</td>
-              <td>1</td>
+              <td>Fewbisoft</td>
+              <td>6</td>
+              <td>2</td>
               <td>0</td>
-              <td>+2</td>
+              <td>+4</td>
             </tr>
             <tr>
-               <th scope="row">2</th>
-               <td>Game Hive</td>
+               <th scope="row">3</th>
+               <td>Everything Hurts</td>
+               <td>4</td>
                <td>3</td>
-               <td>1</td>
                <td>0</td>
-               <td>+2</td>
+               <td>+1</td>
             </tr>
             <tr>
-               <th scope="row">2</th>
-               <td>Fewbisoft</td>
-               <td>3</td>
-               <td>1</td>
+               <th scope="row">4</th>
+               <td>Onibaku</td>
+               <td>4</td>
+               <td>4</td>
                <td>0</td>
-               <td>+2</td>
+               <td>+0</td>
             </tr>
             <tr>
-              <th scope="row">5</th>
+              <th scope="row">4</th>
               <td>Cronchers of Catan</td>
-              <td>1</td>
-              <td>3</td>
+              <td>4</td>
+              <td>4</td>
               <td>0</td>
-              <td>-2</td>
+              <td>+0</td>
             </tr>
             <tr>
-               <th scope="row">5</th>
-               <td>Stacy's Moms</td>
-               <td>1</td>
+               <th scope="row">6</th>
+               <td>Finer Things Club</td>
                <td>3</td>
+               <td>4</td>
                <td>0</td>
-               <td>-2</td>
+               <td>-1</td>
              </tr>
              <tr>
-                <th scope="row">5</th>
+                <th scope="row">7</th>
                 <td>Nerf Mei</td>
-                <td>1</td>
-                <td>3</td>
+                <td>2</td>
+                <td>6</td>
                 <td>0</td>
-                <td>-2</td>
+                <td>-4</td>
             </tr>
             <tr>
-              <th scope="row">7</th>
-              <td>Finer Things Club</td>
+              <th scope="row">8</th>
+              <td>Stacy's Moms</td>
+              <td>1</td>
+              <td>6</td>
               <td>0</td>
-              <td>3</td>
-              <td>0</td>
-              <td>-3</td>
+              <td>-5</td>
             </tr>
           </tbody>
         </table>

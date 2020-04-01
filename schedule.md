@@ -17,11 +17,11 @@ permalink: /schedule/
       </ul>
       <h2>March 29th, 2020</h2><h3>Remote Play Only</h3>
       <p><strong>Maps:</strong> Dorado, Oasis, Hollywood, Temple of Anubis, Watchpoint: Gilbraltar</p>
-      <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> Fewbisoft vs. Everything Hurts</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> Stacy's Moms vs. Game Hive</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> Cronchers of Catan vs. Nerf Mei</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Onibaku vs. Finer Things Club</li>
+       <ul>
+        <li><strong>Fewbisoft 3</strong> - 1 Everything Hurts</li>
+        <li><strong>Game Hive 3</strong> - 0 Stacy's Moms</li>
+        <li><strong>Conchers of Catan 3</strong> - 1 Nerf Mei</li>
+        <li><strong>Finer Things Club 3</strong> - 1 Onibaku</li>
       </ul>
       <h2>April 5th, 2020</h2>
       <p><strong>Maps:</strong> Eichenwalde, Horizon Lunar Colony, Nepal, Numbani, Route 66</p>
