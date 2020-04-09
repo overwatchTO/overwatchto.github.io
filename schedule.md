@@ -26,11 +26,11 @@ permalink: /schedule/
       <h2>April 5th, 2020</h2>
       <p><strong>Maps:</strong> Eichenwalde, Horizon Lunar Colony, Nepal, Numbani, Route 66</p>
       <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> Onibaku vs. Game Hive</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> Nerf Mei vs. Everything Hurts</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> Finer Things Club vs. Fewbisoft</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Cronchers of Catan vs. Stacy's Moms</li>
-      </ul>      
+        <li><strong>Game Hive 3</strong> - 1 Onibaku</li>
+        <li><strong>Everything Hurts 3</strong> - 2 Nerf Mei</li>
+        <li><strong>Fewbisoft 3</strong> - 1 Finer Things Club</li>
+        <li><strong>Stacy's Moms 3</strong> - 0 Cronchers of Catan</li>
+      </ul>    
       <h2>April 19th, 2020</h2>
       <p><strong>Maps:</strong> Ilios, Havana, Hanamura, King's Row, Lijiang Tower</p>
       <ul>
