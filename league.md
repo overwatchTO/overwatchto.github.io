@@ -54,7 +54,7 @@ permalink: /league/
             <tr>
               <th scope="row">1</th>
               <td>Game Hive</td>
-              <td>2</td>
+              <td>3</td>
               <td>0</td>
               <td>0</td>
               <td>+7</td>
@@ -62,7 +62,7 @@ permalink: /league/
             <tr>
               <th scope="row">2</th>
               <td>Fewbisoft</td>
-              <td>2</td>
+              <td>3</td>
               <td>0</td>
               <td>0</td>
               <td>+6</td>
@@ -71,7 +71,7 @@ permalink: /league/
                <th scope="row">3</th>
                <td>Everything Hurts</td>
                <td>2</td>
-               <td>0</td>
+               <td>1</td>
                <td>0</td>
                <td>+2</td>
             </tr>
