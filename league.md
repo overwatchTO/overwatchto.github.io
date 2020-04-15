@@ -46,7 +46,6 @@ permalink: /league/
               <th scope="col"><strong>Team</strong></th>
               <th scope="col"><strong>W</strong></th>
               <th scope="col"><strong>L</strong></th>
-              <th scope="col"><strong>D</strong></th>
               <th scope="col"><strong>Diff</strong></th>
             </tr>
           </thead>
@@ -56,14 +55,12 @@ permalink: /league/
               <td>Game Hive</td>
               <td>3</td>
               <td>0</td>
-              <td>0</td>
               <td>+7</td>
             </tr>
             <tr>
               <th scope="row">2</th>
               <td>Fewbisoft</td>
               <td>3</td>
-              <td>0</td>
               <td>0</td>
               <td>+6</td>
             </tr>
@@ -72,7 +69,6 @@ permalink: /league/
                <td>Everything Hurts</td>
                <td>2</td>
                <td>1</td>
-               <td>0</td>
                <td>+2</td>
             </tr>
             <tr>
@@ -80,7 +76,6 @@ permalink: /league/
                <td>Onibaku</td>
                <td>1</td>
                <td>2</td>
-               <td>0</td>
                <td>-2</td>
             </tr>
             <tr>
@@ -88,7 +83,6 @@ permalink: /league/
               <td>Stacy's Moms</td>
               <td>1</td>
               <td>2</td>
-              <td>0</td>
               <td>-2</td>
             </tr>
             <tr>
@@ -96,7 +90,6 @@ permalink: /league/
                <td>Cronchers of Catan</td>
                <td>1</td>
                <td>2</td>
-               <td>0</td>
                <td>-3</td>
              </tr>
              <tr>
@@ -104,7 +97,6 @@ permalink: /league/
                 <td>Finer Things Club</td>
                 <td>1</td>
                 <td>2</td>
-                <td>0</td>
                 <td>-3</td>
             </tr>
             <tr>
@@ -112,7 +104,6 @@ permalink: /league/
               <td>Nerf Mei</td>
               <td>0</td>
               <td>3</td>
-              <td>0</td>
               <td>-5</td>
             </tr>
           </tbody>
