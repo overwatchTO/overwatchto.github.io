@@ -75,7 +75,7 @@ permalink: /league/
                <th scope="row">4</th>
                <td>Everything Hurts</td>
                <td>2</td>
-               <td>1</td>
+               <td>2</td>
                <td>-1</td>
             </tr>
             <tr>
@@ -89,21 +89,21 @@ permalink: /league/
               <th scope="row">6</th>
               <td>Stacy's Moms</td>
               <td>1</td>
-              <td>2</td>
+              <td>3</td>
               <td>-3</td>
             </tr>
              <tr>
                 <th scope="row">7</th>
                 <td>Finer Things Club</td>
                 <td>1</td>
-                <td>2</td>
+                <td>3</td>
                 <td>-5</td>
             </tr>
             <tr>
               <th scope="row">8</th>
               <td>Nerf Mei</td>
               <td>0</td>
-              <td>3</td>
+              <td>4</td>
               <td>-7</td>
             </tr>
           </tbody>
