@@ -34,11 +34,11 @@ permalink: /schedule/
       <h2>April 19th, 2020</h2>
       <p><strong>Maps:</strong> Ilios, Havana, Hanamura, King's Row, Lijiang Tower</p>
       <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> Fewbisoft vs. Stacy's Moms</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Cronchers of Catan</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> Nerf Mei vs. Onibaku</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Everything Hurts vs. Game Hive</li>
-      </ul>      
+        <li><strong>Fewbisoft 3</strong> - 2 Stacy's Moms</li>
+        <li><strong>Cronchers of Catan 3</strong> - 1 Finer Things Club</li>
+        <li><strong>Onibaku 3</strong> - 1 Nerf Mei</li>
+        <li><strong>Game Hive 3</strong> - 0 Everything Hurts</li>
+      </ul> 
       <h2>April 26th, 2020</h2>
       <p><strong>Maps:</strong> Rialto, Blizzard World, Busan, Paris, Dorado</p>
       <ul>
