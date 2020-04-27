@@ -42,13 +42,13 @@ permalink: /schedule/
       <h2>April 26th, 2020</h2>
       <p><strong>Maps:</strong> Rialto, Blizzard World, Busan, Paris, Dorado</p>
       <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> Everything Hurts vs. Onibaku</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> Game Hive vs. Nerf Mei</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> Fewbisoft vs. Cronchers of Catan</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Finer Things Club vs. Stacy's Moms</li>
-      </ul>
+        <li><strong>Everything Hurts 3</strong> - 2 Onibaku</li>
+        <li><strong>Game Hive 3</strong> - 0 Nerf Mei</li>
+        <li><strong>Fewbisoft 3</strong> - 0 Cronchers of Catan</li>
+        <li><strong>Stacy's Moms 3</strong> - 1 Finer Things Club</li>
+      </ul> 
       <h2>May 3rd, 2020</h2>
-      <p><strong>Maps:</strong> Numbani, Volskaya Industries, Watchpoint: Gilbraltar, Eichenwalde, Oasis</p>
+      <p><strong>Maps:</strong> Numbani, Temple of Anubis, Watchpoint: Gilbraltar, Eichenwalde, Oasis</p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Finer Things Club vs. Nerf Mei</li>
         <li><strong>4:00pm (login @ 3:45pm) - </strong> Cronchers of Catan vs. Onibaku</li>
@@ -56,7 +56,7 @@ permalink: /schedule/
         <li><strong>8:00pm (login @ 7:45pm) - </strong> Fewbisoft vs. Game Hive</li>
       </ul>
       <h2>May 10th, 2020</h2>
-      <p><strong>Maps:</strong> Nepal, Route 66, Temple of Anubis, Hollywood, Ilios</p>
+      <p><strong>Maps:</strong> Nepal, Route 66, Hanamura, Hollywood, Ilios</p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Stacy's Moms vs. Nerf Mei</li>
         <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Game Hive</li>
