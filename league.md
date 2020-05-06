@@ -53,58 +53,58 @@ permalink: /league/
             <tr>
               <th scope="row">1</th>
               <td>Game Hive</td>
-              <td>5</td>
+              <td>6</td>
               <td>0</td>
-              <td>+13</td>
+              <td>+14</td>
             </tr>
             <tr>
               <th scope="row">2</th>
               <td>Fewbisoft</td>
               <td>5</td>
-              <td>0</td>
-              <td>+10</td>
+              <td>1</td>
+              <td>+9</td>
             </tr>
             <tr>
                <th scope="row">3</th>
                <td>Everything Hurts</td>
-               <td>3</td>
+               <td>4</td>
                <td>2</td>
-               <td>+0</td>
-            </tr>
-            <tr>
-              <th scope="row">4</th>
-              <td>Stacy's Moms</td>
-              <td>2</td>
-              <td>3</td>
-              <td>-1</td>
+               <td>+2</td>
             </tr>
              <tr>
                <th scope="row">4</th>
-               <td>Onibaku</td>
-               <td>2</td>
+               <td>Cronchers of Catan</td>
+               <td>3</td>
                <td>3</td>
                <td>-1</td>
-            </tr>
-            <tr>
-               <th scope="row">6</th>
-               <td>Cronchers of Catan</td>
-               <td>2</td>
-               <td>3</td>
-               <td>-4</td>
              </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td>Stacy's Moms</td>
+              <td>2</td>
+              <td>4</td>
+              <td>-3</td>
+            </tr>
+             <tr>
+               <th scope="row">6</th>
+               <td>Onibaku</td>
+               <td>2</td>
+               <td>4</td>
+               <td>-4</td>
+            </tr>
              <tr>
                 <th scope="row">7</th>
                 <td>Finer Things Club</td>
                 <td>1</td>
-                <td>4</td>
-                <td>-7</td>
+                <td>5</td>
+                <td>-8</td>
             </tr>
             <tr>
               <th scope="row">8</th>
               <td>Nerf Mei</td>
-              <td>0</td>
+              <td>1</td>
               <td>5</td>
-              <td>-10</td>
+              <td>-9</td>
             </tr>
           </tbody>
         </table>

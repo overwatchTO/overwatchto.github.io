@@ -50,11 +50,11 @@ permalink: /schedule/
       <h2>May 3rd, 2020</h2>
       <p><strong>Maps:</strong> Numbani, Temple of Anubis, Watchpoint: Gilbraltar, Eichenwalde, Oasis</p>
       <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> Finer Things Club vs. Nerf Mei</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> Cronchers of Catan vs. Onibaku</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> Stacy's Moms vs. Everything Hurts</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Fewbisoft vs. Game Hive</li>
-      </ul>
+        <li><strong>Nerf Mei 3</strong> - 2 Finer Things Club</li>
+        <li><strong>Cronchers of Catan 3</strong> - 0 Onibaku</li>
+        <li><strong>Everything Hurts 3</strong> - 1 Stacy's Moms</li>
+        <li><strong>Game Hive 3</strong> - 2 Fewbisoft</li>
+      </ul> 
       <h2>May 10th, 2020</h2>
       <p><strong>Maps:</strong> Nepal, Route 66, Hanamura, Hollywood, Ilios</p>
       <ul>
