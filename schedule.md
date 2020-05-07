@@ -57,6 +57,7 @@ permalink: /schedule/
       </ul> 
       <h2>May 10th, 2020</h2>
       <p><strong>Maps:</strong> Nepal, Route 66, Hanamura, Hollywood, Ilios</p>
+      <p><strong>Reinhardt, Reaper, Ashe, and Brigitte will be banned from play</strong></p>
       <ul>
         <li><strong>2:00pm (login @ 1:45pm) - </strong> Stacy's Moms vs. Nerf Mei</li>
         <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Game Hive</li>
@@ -65,21 +66,35 @@ permalink: /schedule/
       </ul>
       <h2>May 24th, 2020</h2>
       <p>Playoffs Week 1</p>
-      <p><strong>Maps:</strong> TBA </p>
+      <p><strong>The 1st and 2nd seed teams will not play on May 24 and will have a bye to semi-finals on May 31st. </strong></p>
+      <p><strong>Maps:</strong></p> 
       <ul>
-          <li><strong>TBA</strong></li>
+        <li><strong>2:00pm & 4:00pm - </strong>Nepal, Hollywood, Volskaya, Route 66, Ilios (Contingency Map = Junkertown)</li>
+        <li><strong>6:00pm & 8:00pm - </strong>Ilios, Route 66, Volskaya, Hollywood, Nepal (Contingency Map = Junkertown)</li>
+      </ul>
+      <ul>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong> The 5th place seed will play the 8th place seed.</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> The 6th place seed will play the 7th place seed.</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> The winner of the 2:00pm match (5th vs. 8th) will play the 4th seed.</li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> The winner of the 4:00pm match (6th vs. 7th) will play the 3rd seed.</li>
       </ul>
       <h2>May 31st, 2020</h2>
       <p>Playoffs Week 2</p>
-      <p><strong>Maps:</strong> TBA </p>
+      <p><strong>Maps:</strong> Dorado, Oasis, Temple of Anubis, Eichenwalde, Havana (Contingency Map = Lijiang Tower)</p>
       <ul>
-          <li><strong>TBA</strong></li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> The highest seed winner from May 24th will play the 2nd seed.</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> The lowest seed winner from May 24th will play the 1st seed.</li>
       </ul>
-       <h2>June 7th, 2020</h2>
-       <p>Finals</p>
-      <p><strong>Maps:</strong> TBA </p>
-       <ul>
-          <li><strong>TBA</strong></li>
+      <h2>June 7th, 2020</h2>
+      <p>Finals</p>
+      <p><strong>Maps:</strong></p> 
+      <ul>
+        <li><strong>4:00pm - </strong>King’s Row, Control map chosen by team who lost previous map, Assault map chosen by team who lost previous map, Escort map chosen by team who lost previous map, Hybrid map chosen by team who lost previous map</li>
+        <li><strong>6:00pm - </strong>The Best of 7 Map Pool for the Grand Finals will be the following: Lijiang Tower, King’s Row, Watchpoint: Gibraltar, Hanamura, Busan, Numbani, Rialto (Contingency Map = Oasis)</li>
+      </ul>
+      <ul>
+         <li><strong>4:00pm (login @ 3:45pm) - </strong> Consolations Finals</li>
+         <li><strong>6:00pm (login @ 5:45pm) - </strong> SEASON FIVE GRAND FINALS</li>
       </ul>
     </div>
   </div>
