@@ -52,5 +52,10 @@ permalink: /contact/
   </div>
 </form>
   </div>
+   <div class="row justify-content-center">
+   <div class="col-12 col-md-8 col-xl-6">
+   <p class="report-link">If you are a player in the Toronto Overwatch Beer League and wish to report an incident, click here:<a style="text-decoration: none;" href="https://forms.gle/BDHEjTt6Lbe2iEUD9" target="_blank"> Report Incident</a></p>
+  </div>
+  </div>
 </div>
 </div>
