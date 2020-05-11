@@ -58,32 +58,32 @@ permalink: /schedule/
       <h2>May 10th, 2020</h2>
       <p><strong>Maps:</strong> Nepal, Route 66, Hanamura, Hollywood, Ilios</p>
       <p><strong>Reinhardt, Reaper, Ashe, and Brigitte will be banned from play</strong></p>
-      <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> Stacy's Moms vs. Nerf Mei</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> Finer Things Club vs. Game Hive</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> Fewbisoft vs. Onibaku</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> Cronchers of Catan vs. Everything Hurts</li>
-      </ul>
+       <ul>
+        <li><strong>Nerf Mei 3</strong> - 1 Stacy's Moms</li>
+        <li><strong>Finer Things Club 3</strong> - 2 Game Hive</li>
+        <li><strong>Fewbisoft 3</strong> - 1 Onibaku</li>
+        <li><strong>Everything Hurts 3</strong> - 0 Cronchers of Catan</li>
+      </ul> 
       <h2>May 24th, 2020</h2>
       <p>Playoffs Week 1</p>
       <p><strong>The 1st and 2nd seed teams will not play on May 24 and will have a bye to semi-finals on May 31st. </strong></p>
       <p><strong>Maps:</strong></p> 
       <ul>
-        <li><strong>2:00pm & 4:00pm - </strong>Nepal, Hollywood, Volskaya, Route 66, Ilios (Contingency Map = Junkertown)</li>
-        <li><strong>6:00pm & 8:00pm - </strong>Ilios, Route 66, Volskaya, Hollywood, Nepal (Contingency Map = Junkertown)</li>
+        <li><strong>2:00pm & 4:00pm - </strong>Oasis, Hollywood, Volskaya, Havana, Ilios (Contingency Map = Junkertown)</li>
+        <li><strong>6:00pm & 8:00pm - </strong>Ilios, Havana, Volskaya, Hollywood, Oasis (Contingency Map = Junkertown)</li>
       </ul>
       <ul>
-        <li><strong>2:00pm (login @ 1:45pm) - </strong> The 5th place seed will play the 8th place seed.</li>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> The 6th place seed will play the 7th place seed.</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> The winner of the 2:00pm match (5th vs. 8th) will play the 4th seed.</li>
-        <li><strong>8:00pm (login @ 7:45pm) - </strong> The winner of the 4:00pm match (6th vs. 7th) will play the 3rd seed.</li>
+        <li><strong>2:00pm (login @ 1:45pm) - </strong>Stacy's Moms vs Finer Things Club</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong>Onibaku vs Nerf Mei</li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> The winner of the 2:00pm match (5th vs. 8th) will play <strong>Cronchers of Catan</strong></li>
+        <li><strong>8:00pm (login @ 7:45pm) - </strong> The winner of the 4:00pm match (6th vs. 7th) will play <strong>Everything Hurts</strong></li>
       </ul>
       <h2>May 31st, 2020</h2>
       <p>Playoffs Week 2</p>
-      <p><strong>Maps:</strong> Dorado, Oasis, Temple of Anubis, Eichenwalde, Havana (Contingency Map = Lijiang Tower)</p>
+      <p><strong>Maps:</strong> Dorado, Nepal, Temple of Anubis, Eichenwalde, Route 66 (Contingency Map = Lijiang Tower)</p>
       <ul>
-        <li><strong>4:00pm (login @ 3:45pm) - </strong> The highest seed winner from May 24th will play the 2nd seed.</li>
-        <li><strong>6:00pm (login @ 5:45pm) - </strong> The lowest seed winner from May 24th will play the 1st seed.</li>
+        <li><strong>4:00pm (login @ 3:45pm) - </strong> The highest seed winner from May 24th will play <strong>Fewbisoft</strong></li>
+        <li><strong>6:00pm (login @ 5:45pm) - </strong> The lowest seed winner from May 24th will play <strong>Game Hive</strong></li>
       </ul>
       <h2>June 7th, 2020</h2>
       <p>Finals</p>
